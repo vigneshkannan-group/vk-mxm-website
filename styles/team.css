@@ -109,7 +109,7 @@ body::before {
   width: 100%;
   max-width: 85vw;
   border-radius: 1rem;
-  overflow: auto;
+  overflow: visible;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   background-color: transparent;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -117,7 +117,6 @@ body::before {
 
 .team-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 12px 20px rgba(0,0,0,0.2);
 }
 
 .team-card img {
