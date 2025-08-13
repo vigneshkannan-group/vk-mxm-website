@@ -58,3 +58,12 @@ Our experiments allow us to "see" the wondrous complexity of nature, but to comp
 To follow our most recent updates follow our [News and Events](news.qmd) page. 
 
 :::
+
+---
+
+:::{.custom-margin}
+
+## Recent updates
+* **We are hiring!** Further details in the [Open positions](positions.qmd) page.
+
+:::
