@@ -1,0 +1,20 @@
+---
+title: "Our first miniature gas gun"
+synopsis: "Our first gas gun for miniature Kolsky bar experiments is here!"
+image: "images/mini-gas-gun1.jpeg"
+date: 2025-05-21
+categories: [lab]
+format: 
+  html:
+    theme: ../../vigilab.scss
+    css: ../../styles/news.css
+---
+###
+
+:::{.custom-margin}
+We are excited for the development of our first miniature Kolsky bar experiments, with the manufacture of our first gas gun for miniature dynamic compression fresh out of the LMS machine shop! Stay tuned for future updates.
+:::
+
+:::{.center}
+![Our first miniature gas gun](images/mini-gas-gun1.jpeg){width=100%}
+:::

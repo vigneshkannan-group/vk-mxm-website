@@ -1,0 +1,54 @@
+\mode<presentation>
+
+\setbeamertemplate{background}{
+  \ifnum\thepage=1
+    \includegraphics[width=\paperwidth]{titlepage2.pdf}
+  \fi
+}
+
+% Title page
+\defbeamertemplate*{title page}{kochmann}[1][]
+{  
+	\vskip 5cm\hskip 0.4cm
+\begin{minipage}{0.95\textwidth}
+	\LARGE \usebeamercolor[fg]{black}%{blueETH} 
+	\parbox[b][2em][c]{0.95\textwidth}{\raggedright\textbf{\inserttitle}}
+	\usebeamercolor[fg]{black} 
+	\vskip 0.4cm
+	\large \textbf{\insertauthor}\\[0.07cm]
+	\small
+	\textbf{\insertinstitute}\\[0.15cm]
+	in collaboration with \\[0.15cm]
+	\normalsize
+	\parbox[t][4em][t]{0.75\textwidth}{\raggedright\coauthors}
+\end{minipage}
+}
+
+\newcommand{\reference}[1]{{ \footnotesize\scshape (#1)}}
+\newcommand{\bottomreference}[1]{{ \centering\footnotesize\scshape (#1)\vfill}}
+
+\setbeamersize{text margin left = 0.6cm}
+\setbeamersize{text margin right = 0.5cm}
+
+\setbeamercovered{transparent}
+\beamertemplatesolidbuttons
+\beamertemplateballitem
+
+\newcommand{\thankyouframe}{
+\usebackgroundtemplate{\includegraphics[width=\paperwidth]{format/endpage.pdf}}
+	\frame{
+		\vskip 6.2cm\hskip 0.4cm
+		\begin{minipage}{0.95\textwidth}
+			\large \textbf{\insertauthor}\\[0.07cm]
+			\small
+			\contactemail $\ \ \cdot\ $ www.kochmann.caltech.edu\\[0.4cm]
+			\vfill
+			\textbf{acknowledgments}: \\[0.15cm]
+			\small\raggedright\acknowledgments
+		\end{minipage}
+	}
+}
+
+\newcommand{\addline}[1]{\vskip 0.2cm\small #1}
+\mode
+<all>

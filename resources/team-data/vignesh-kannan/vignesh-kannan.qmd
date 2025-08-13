@@ -1,0 +1,55 @@
+:::{.team-card}
+![](resources/images/headshots/kannan.jpg)
+
+:::{.team-info}
+
+### Vignesh Kannan
+<span class="smallfont">
+Assistant Professor of Mechanics, Solid Mechanics Laboratory (LMS) <br>
+Ecole Polytechnique, Palaiseau, France
+</span>
+
+####
+<span class="smallfont">
+Ph.D., M.S.E., Johns Hopkins University, U.S.A. <br>
+B. Tech., National Institute of Technology, Trichy, India
+</span>
+
+####
+<span class="smallfont"><i class="fas fa-envelope"></i> 
+<a href="mailto:vignesh.kannan@polytechnique.edu">vignesh.kannan@polytechnique.edu</a>
+</span>
+<span class="smallfont"><i class="fas fa-phone"></i> 
+<a href="tel:+33169335744">+33 (0) 1 69 33 57 44</a>
+</span> <br>
+<i class="fas fa-map-marker-alt"></i><span class="smallfont"> 
+Pole Mecanique (Building 104; Office 104.20.65) <br>
+Avenue Becquerel, 91120 Palaiseau, France
+</span>
+
+####
+<!-- Footer with links -->
+<div style="display: flex; justify-content: left; gap: 15px; margin-top: 10px;">
+  <!-- CV -->
+  <a href="resources/team-data/vignesh-kannan/cv/Kannan_CV_full.pdf" target="_blank" title="CV">
+    <img src="resources/images/logos/cv.png" alt="CV" style="width: 30px; height: auto; object-fit: contain">
+  </a>
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=ntDAO2oAAAAJ&hl=en" target="_blank" title="Google Scholar">
+    <img src="resources/images/logos/google-scholar.svg" alt="Google Scholar" style="width: 30px; height: auto; object-fit: contain">
+  </a>
+
+  <!-- ORCID -->
+  <a href="https://orcid.org/0000-0003-2654-2644" target="_blank" title="ORCID">
+    <img src="resources/images/logos/orcid.svg" alt="ORCID" style="width: 30px; height: auto; object-fit: contain">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vignesh-kannan-a418301a" target="_blank" title="LinkeIn">
+    <img src="resources/images/logos/linkedin.png" alt="LinkedIn" style="width: 30px; height: auto; object-fit: contain">
+  </a>
+</div>
+
+:::
+:::

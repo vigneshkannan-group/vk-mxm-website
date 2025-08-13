@@ -1,0 +1,20 @@
+---
+title: "Our first grant award!"
+synopsis: "We have been awarded our first grant by the ANR to study impact-induced phase transformations!"
+image: "images/00title.jpg"
+date: 2024-07-12
+categories: [grant]
+format: 
+  html:
+    theme: ../../vigilab.scss
+    css: ../../styles/news.css
+---
+###
+
+:::{.custom-margin}
+We have been awarded a four-year grant by the French National Research Agency (ANR) to study impact-induced phase transformations in magnetic shape memory alloys! Over the next four years we will be investigating the mechanisms behind such phase transformations at short time scales down to nanoseconds, using very exciting in-house experimental methods. I am absolutely delighted, more so because this is my first successful grant application. Looking forward to some very exciting science. I will be soon be hiring new doctoral/post-doctoral researchers. Stay tuned for updates...
+
+:::{.center}
+![](images/00title.jpg){width=100%}
+:::
+:::

@@ -1,0 +1,428 @@
+\documentclass[a4paper,10pt, oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{hyperref}
+\renewcommand{\baselinestretch}{1.2}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{comment}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage[symbol,bottom,hang,flushmargin]{footmisc}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+\titlespacing{\section}{0pt}{6pt plus 6pt minus 6pt}{6pt plus 6pt minus 6pt}
+\titleformat{\section}{\normalfont\large \scshape}{\thesection}{1em}{}[{\vspace{-0.8em}\rule{0.5\linewidth}{1pt}}]
+
+\graphicspath{ {images/}} %upload your signature to this file
+%Change the margins to fit your CV/resume content
+\usepackage[left=0.75in, right=0.75in, bottom=0.6in, top=0.6in]{geometry}
+
+%Changes the page numbers - {arabic}=arabic numerals, {gobble}=no page numbers, {roman}=Roman numerals
+%\pagenumbering{gobble}
+
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=magenta,
+	urlcolor=blue,
+	pdftitle={Kannan Curriculum Vitae},
+	%bookmarks=true,
+	pdfpagemode=FullScreen,
+}
+
+\setlist[itemize]{noitemsep, topsep=0pt}
+
+\urlstyle{same}
+
+\newcommand{\footremember}[2]{%
+	\footnote{#2}
+	\newcounter{#1}
+	\setcounter{#1}{\value{footnote}}%
+}
+\newcommand{\footrecall}[1]{%
+	\footnotemark[\value{#1}]%
+} 
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{}
+\lhead{}
+\rfoot{\textsf{CV and Publications --- Vignesh Kannan, p.\thepage}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{1pt}
+\fancypagestyle{plain}{%
+	\fancyhf{}
+	\rfoot{\sffamily CV \& publications -- Vignesh Kannan, p.\thepage}
+}
+\setlength{\parindent}{0pt}
+%%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%%%%%%
+\setlength{\parindent}{0pt}
+\begin{document} \thispagestyle{empty}
+	
+	\noindent 
+	\begin{center}
+		\LARGE{\textsc{\href{www.vignesh-kannan.com}{Vignesh Kannan}}} \vspace{-0.5em}
+	\end{center} 
+	\noindent \rule{\textwidth}{1pt}
+	\begin{tabularx}{\textwidth}{@{}l X}
+		Assistant Professor of Mechanics	&	\hfill	E-mail:~\href{mailto:vignesh.kannan@polytechnique.edu}{vignesh.kannan@polytechnique.edu} \\
+		\href{https://portail.polytechnique.edu/lms/fr/accueil}{Solid Mechanics Laboratory} & \hfill Phone:~+33 (0) 6 12 91 91 64 \\
+		Department of Mechanics, {\'E}cole Polytechnique    &  \hfill ORCID:~\href{https://orcid.org/0000-0003-2654-2644}{0000-0003-2654-2644}\\
+		Institut Polytechnique de Paris &  \hfill \href{https://scholar.google.com/citations?user=ntDAO2oAAAAJ\&hl=en\&authuser=1}{Google scholar profile}\\       
+		Route de Saclay, 91128 Palaiseau, France & \hfill Web page:~\href{https://www.vignesh-kannan.com}{www.vignesh-kannan.com} \\
+	\end{tabularx}
+	
+	%%%%%%%%% EDUCATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\section*{Education}
+	\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+		\item[]\textbf{Johns Hopkins University, Baltimore, U.S.A.}  
+		\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+			\item[] Doctor of Philosophy, Mechanical Engineering (\textit{Advisor: Prof.~K.~T.~Ramesh})\hfill \textit{(December 2018)}
+			\item[]\textit{Thesis title}: \href{https://jscholarship.library.jhu.edu/handle/1774.2/61443}{Twinning and the dynamic behavior of magnesium and its alloys} 
+			\vspace*{0.5em}
+			\item[] Master of Science in Engineering (M.S.E.), Mechanical Engineering \hfill \textit{(May 2014)}
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{National Institute of Technology, Tiruchirappalli, India}
+		\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+			\item[] Bachelor of Technology (B.~Tech.), Production Engineering \hfill \textit{(May 2012)} 
+		\end{itemize}
+	\end{itemize}
+	
+	\section*{{Research Areas of Expertise}}
+	\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+		\item[]Continuum mechanics; Mechanics of materials; Experimental mechanics; Dynamic behavior of materials (impact and wave propagation); Micro-mechanics \& defect kinetics; Structural materials; Ferroelectric materials; Architected (meta-)materials
+	\end{itemize}
+	
+	\section*{Employment History}
+	\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+		\item[]\textbf{Assistant Professor} \hfill \textit{(January 2024 -- present)} \\
+		\href{}{Department of Mechanics} (\href{https://portail.polytechnique.edu/lms/fr/accueil}{Solid Mechanics Laboratory}), {\'E}cole Polytechnique, Palaiseau
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item \textit{Research:}~Mechanics of materials under extreme conditions
+			\item \textit{Teaching:}~Mechanics, Experimental mechanics/physics		
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{Visiting Scientist} \hfill \textit{(January 2024 -- present)} \\
+		\href{https://mm.ethz.ch/}{Mechanics \emph{\&} Materials Laboratory}, ETH Z\"{u}rich, Switzerland \\
+		\textit{Host \& PI}: Prof.~Dr.~Dennis M.~Kochmann
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Experimental research on the multi-scale, electro-mechanical response of ferroelectric materials, and elastic wave guiding in architected metamaterials		
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{Oberassistent} \hfill \textit{(June 2022 -- December 2023)} \\
+		\href{https://mm.ethz.ch/}{Mechanics \emph{\&} Materials Laboratory}, ETH Z\"{u}rich, Switzerland \\
+		\textit{Mentor}: Prof.~Dr.~Dennis M.~Kochmann
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Lead experimental researcher on the dynamic response of ferroelectric materials and architected metamaterials
+			\item Research grant proposal writing, student mentorship, experimental laboratory management		
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{Postdoctoral researcher} \hfill \textit{(February 2019 -- May 2022)} \\
+		\href{https://mm.ethz.ch/}{Mechanics \emph{\&} Materials Laboratory}, ETH Z\"{u}rich, Switzerland \\
+		\textit{Mentor}: Prof.~Dr.~Dennis M.~Kochmann
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Setup new experimental laboratories within the Mechanics \emph{\&} Materials research group.
+			\item In-situ investigation of ferroelectric materials and 3D-printed architected metamaterials.		
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{Graduate research assistant} \hfill \textit{(June 2013 -- December 2018)}\\
+		\href{https://hemi.jhu.edu/}{Hopkins Extreme Materials Institute}, Johns Hopkins University, U.S.A. \\
+		\textit{Advisor}: Prof.~K.~T.~Ramesh
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Developed experimental capabilities and data sets for studying materials under extreme loading conditions.
+			\item Assisted in the development of state-of-the-art experimental capabilities to study the dynamic behavior of metals, ceramics, and rocks using in-situ X-Ray imaging at high-energy synchrotron facilities.
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{Graduate teaching assistant} \hfill \textit{(January 2013  -- May 2017)} \\
+		\href{https://me.jhu.edu/}{Department of Mechanical Engineering}, Johns Hopkins University, U.S.A.
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Teaching duties for multiple undergraduate and graduate courses in mechanics of materials
+		\end{itemize} 
+	\end{itemize}
+	
+	\begin{comment}
+		\section*{{Research interests}}
+	\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+		\item[]\textbf{Experimental Mechanics} 
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Dynamic behaviour of materials: high strain-rate experiments
+			\item In-situ high-speed optical measurement techniques and image processing
+			\item In-situ electromechanical experiments
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{Micro-mechanics and defect kinetics}
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Kinetics of planar defects (twin/phase boundaries) under dynamic thermo-mechanical loads (viscoplasticity)
+			\item Multi-functional domain wall kinetics (ferroelectric switching)
+			\item Nearly-adiabatic shear localization (dynamic ductile failure)
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{Mechanical metamaterials}
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Dynamic deformation and wave propagation in architected metamaterials 
+		\end{itemize}
+	\end{itemize}
+	
+	\section*{{Research skills}}
+	\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+		\item[]\textbf{Laboratory skills}
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item High strain-rate experiments, electromechanical experiments, dynamic viscoelastic characterization, high-speed instrumentation (incl. laser interferometry, laser doppler vibrometry)
+			\item \textit{Imaging/microscopy techniques}: In-situ high speed microscopy, digital image correlation, scanning electron microscopy, electron backscattered diffraction microscopy, piezoresponse force microscopy 
+			\item \textit{Specimen preparation}: Electro-discharge machining, polishing, lapping, ion milling, sputter coating
+		\end{itemize} 
+		\vspace*{0.5em}
+		\item[]\textbf{Software skills}
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Matlab (image and data analysis), Python (instrumentation control and automation, image and data analysis)
+			\item \textit{Finite Element Analysis: }Abaqus
+			\item \textit{CAD modeling: }Creo, AutoCAD, Solidworks
+			\item \textit{Writing and presentations: }\LaTeX
+		\end{itemize}
+	\end{itemize}
+	\end{comment}
+	
+	\section*{{Research Projects}\footnote[2]{relevant publication(s) are cited next to project title}}
+	\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+		\item[]\textbf{Assistant Professor, \'{E}cole Polytechnique, France} \hfill \textit{(October 2024 -- )}
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item \textit{Mechanics of ferromagnetic shape memory alloys under extreme, high-pressure dynamic environments} \\
+			\textit{Role}:~Principal Investigator. A four-year research programme funded through the French National Research Agency (ANR) Young Researcher call. We will study the evolution of phase transformations in ferrromagnetic shape memory alloys under extreme dynamic conditions and multi-physical fields.
+		\end{itemize}
+		\vspace*{1em}
+		\item[]\textbf{Oberassistent (currently, Visting Scientist), ETH Z\"{u}rich} \hfill \textit{(June 2022 -- present)}
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item \textit{Kinetics of domain walls in ferroelectric crystals} \\
+			Developing an in-situ optical experiment to characterize domain wall (and multi-functional interfacial) kinetics in bulk ferroelectric crystals under transient macroscopic electric fields, mechanical loads, and temperature.
+			\item\textit{Active viscoelastic coupling in ferroelectric ceramics} \\
+			An experimental-theoretical investigation of the dynamic viscoelastic response of ferroelectric ceramics as a function of electrical polarization using in-situ experimental techniques (Broadband Electromechanical Spectroscopy).
+			\item \textit{Wave propagation in architected metamaterials} \\
+			Fabrication, measurement, and analysis of surface acoustic wave dispersion in micro-architectured metamaterials, using photoacoustic excitation and scanning laser doppler vibrometry (in collaboration with the \href{https://www.zurich.ibm.com/brnc/}{Binning and Rohrer Nanotechnology Center, IBM Z\"{u}rich}).		
+		\end{itemize}
+		\vspace*{1em}
+		\item[]\textbf{Postdoctoral scholar, ETH Z\"{u}rich} \hfill \textit{(Februrary 2019 -- May 2022)}
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item \textit{Polarization switching in ferroelectric ceramics} [\hyperref[eml2022]{2},\hyperref[mat2022]{3}] \\
+			Developed in-situ experimental methods to characterize kinetics of polarization switching. Measured and characterized rate-dependent polarization hysteresis and coupled mechanical strains in poled ferroelectric ceramics.
+			\item \textit{Wave propagation in architected metamaterials} [\hyperref[jmps2024]{1}] \\
+			Measurement and analysis of acoustic wave propagation and dispersion in architected metamaterial plates, using scanning laser doppler vibrometry.		
+			\item \textit{Non-linear viscoelastic behavior of architected metamaterials} [\hyperref[jmps2021]{4}] \\
+			Developed in-situ experiments and analysis methods to study the non-linear viscoelastic response of truss-based architected metamaterials.
+		\end{itemize}
+		\vspace*{1em}
+		\item[]\textbf{Graduate researcher, Johns Hopkins University} \hfill \textit{(June 2013 -- December 2018)}
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item \textit{Dynamic behavior of magnesium and its alloys} [\hyperref[jms2019]{5},\hyperref[jmps2018]{7},\hyperref[actmat2018]{8},\hyperref[jdbm2018]{9}]\\
+			Characterized the mechanical response of magnesium alloys at high strain rates ($10^{3}-10^{4}$/s) using impact experiments and high-speed  optical interferometry \& imaging. Rate-dependent plastic deformation mechanisms identified using post-mortem electron microscopy. 
+			
+			\item \textit{Dynamics of deformation twinning at high strain rates} [\hyperref[jmps2018]{7},\hyperref[jdbm2018]{9}] \\
+			Measured transient evolution of deformation twins in single crystal magnesium during high strain-rate loading using in-situ high speed microscopy. Image processing revealed a rate-dependent transition in mechanisms.
+			
+			\item \textit{In-situ X-ray diffraction experiments under dynamic loading} [\hyperref[jdbm2018]{8},\hyperref[rsi2014]{10}] \\
+			Collaborative effort to develop experimental capabilities for in-situ synchrotron X-ray diffraction during high-strain rate loading. Experiments developed at the \href{https://www.aps.anl.gov/}{Advanced Photon Source} and \href{https://www.chess.cornell.edu/}{Cornell High Energy Synchrotron Source} in collaboration with the group of \href{https://engineering.jhu.edu/materials/faculty/todd-hufnagel/}{Prof.~T.~C.~Hufnagel} and the \href{https://www.arl.army.mil/}{Army Research Laboratory}.
+		\end{itemize}
+	\end{itemize}
+	
+	\section*{{Supervision of Junior Researchers}}
+	\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+		\item[]\textbf{Graduate students} \\
+		ETH Z\"{u}rich
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Mathieu Brodmann, Ph.D. candidate \hfill \textit{(November 2023 -- present)} \\
+			\textit{(Co-advising with Prof. Dr. Dennis M. Kochmann (PI))}\\ 
+			\textit{In-situ, multi-scale characterization of ferroelectric switching}
+			\item Victor Deroo, MS 2023 \hfill \textit{April -- June 2023} \\
+			\textit{(Master internship from the \'{E}cole Polytechnique, Paris, France) \\
+				Micro-scale metamaterials for elastic wave manipulation: Experiments and design}
+			\item Mathieu Brodmann, MS 2023 \hfill \textit{(March 2023 -- present)} \\
+			\textit{(Master thesis) Active viscoelastic response of ferroelectric single crystals}
+			\item Marc Kremer Ayuso, MS 2022 \hfill \textit{(March -- November 2022)} \\
+			\textit{(Master thesis) Active viscoelastic response of ferroelectric ceramics}
+			\item Louis Michaud, MS 2022  \hfill \textit{(March -- July 2022)} \\
+			\textit{(Master internship from the \'{E}cole Polytechnique, Paris, France) \\
+				Rate-dependent polarization switching of ferroelectric materials}
+			\item Leila Afilal, MS 2021  \hfill \textit{(March -- September 2021)} \\
+			\textit{(Master thesis) Acoustic wave dispersion in architected metamaterials}
+			\item Hannah Niese, MS 2021  \hfill \textit{(March -- July 2021)} \\
+			\textit{(Semester project) Measuring transient waves in truss-based metamaterials}
+			\item Roxanne Rais, MS 2021  \hfill \textit{(September 2020 -- February 2021)} \\
+			\textit{(Semester project) Measuring acoustic wave propagation in architected metamaterials}
+			\item Leila Afilal, MS 2021  \hfill \textit{(March -- December 2020)} \\
+			\textit{(Semester project) An experiment to measure acoustic wave propagation in thin plates}
+			\item Stephan Steiner, MS 2020  \hfill \textit{(2019 -- 2020)} \\
+			\textit{(Master thesis) Experimental characterization of non-linear viscoelastic materials}
+		\end{itemize} 
+		\vspace*{0.5em}
+		\item[]Johns Hopkins University
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Caleb J. Hustedt, MSE 2017 \hfill \textit{(2015 -- 2016)} \\
+			\textit{In-situ dynamic compression experiments on magnesium and its alloys}
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{Undergraduate students} \\
+		ETH Z\"{u}rich
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Mathieu Brodmann, BS 2021 \textit{(Bachelor thesis)} \hfill \textit{(February -- July 2021)} \\
+			\textit{An in-situ experiment to measure polarization switching in ferroelectric crystals}
+			\item Ben Sp\"{o}ttling, BS 2020 \textit{(Bachelor thesis)} \hfill \textit{(February -- May 2020)} \\
+			\textit{Mapping displacement fields in truss-based metamaterials using digital image analysis}
+		\end{itemize} 
+		\vspace*{0.5em}
+		\item[]Johns Hopkins University
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Alex Doran, BS 2019 \hfill \textit{(2017 -- 2018)} \\
+			\textit{Dynamic compression experiments at very high strain-rates using a miniature kolsky bar}
+			\item Geordan Gutow, BS 2018 \hfill \textit{(2016 -- 2017)} \\
+			\textit{Dynamic compression experiments at very high strain-rates using a miniature kolsky bar}
+		\end{itemize}
+	\end{itemize}
+	
+	\section*{{Teaching Activities}}
+	\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+		\item[]\textbf{Johns Hopkins University}
+		\item[]Boot camp Instructor, Hopkins Extreme Materials Institute \hfill \textit{(August 2018)}
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Target audience: Incoming graduate students with focus on mechanics and materials science
+			\item Designed and conducted a hands-on course on scientific writing and presentation using \LaTeX.
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]Teaching assistant, Mechanical Engineering
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item \textit{Mechanics-based design ({Instructor}:~Prof.~K.~T.~Ramesh)} \hfill \textit{(Spring 2017)} \\
+			Sophomore course on the basics of engineering design using mechanics
+			\item \textit{Mechanics of solids and materials II (Instructor:~Prof.~J.~El-Awady)} \hfill \textit{(Spring 2016)} \\
+			Graduate level course on continuum mechanics of solids
+			\item \textit{Mechanical engineering freshman lab (Instructor:~Prof.~S.~Belkoff)} \hfill \textit{(Spring 2013)} \\
+			Undergraduate mechanical engineering laboratory course for freshers
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{National Institute of Technology, Tiruchirappalli}
+		\item[]Workshop instructor, Automotive transmission systems \hfill \textit{(April 2010)}
+	\end{itemize}
+	
+	\section*{{Scientific Review Activities/Service}}
+	\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+		\item[] \textbf{Peer-reviewer} \\
+		Journal of Dynamic Behavior of Materials, Mechanics of Materials, International Journal of Impact Engineering
+		\vspace*{0.5em}
+		\item[]\textbf{Extreme arts programme} \hfill \textit{(2016 -- 2017)} \\
+		Hopkins Extreme Materials Institute, Johns Hopkins University
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Interdisciplinary programme designed to bring artists from the Maryland Institute College of Art and scientists together to explore unique perspectives on extreme events
+			\item \href{https://www.youtube.com/watch?v=SQUqKc2duXA&feature=youtu.be&ab_channel=HEMI-HopkinsExtremeMaterialsInstitute}{Collaboration with artist Jay Gould on visualization of short time-scale phenomena in materials}
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{Mechanics and Materials seminar} \hfill \textit{(September 2015 -- May 2016)} \\
+		Department of Mechanical Engineering, Johns Hopkins University
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Organizer, weekly seminar series ($\sim$40 speakers, $\sim$75 attendees)
+		\end{itemize}
+	\end{itemize}
+	
+	\section*{{Membership in Scientific Societies}}
+	Society for Experimental Mechanics (SEM), American Physical Society-Shock Compression of Condensed Matter topical group (APS-SCCM), Society of Engineering Science (SES) 
+	
+	\section*{{Honors, Awards, \emph{\&} Fellowships}}
+	\begin{itemize}[wide, labelwidth=!, labelindent=-1em]
+		\item[]\textbf{Peoples' choice best poster award}, Mach conference, Annapolis, MD, U.S.A. \hfill \textit{(April 2017)}
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item Won by popular vote from about 50 researchers studying the dynamic behavior of materials
+			\item \textit{Title:} The mechanics of twinning under high strain rates: Dynamics
+		\end{itemize} 
+		\vspace*{0.5em}
+		\item[]\textbf{APS-SCCM student travel award} \hfill \textit{(June 2015 {\&} 2017)}
+		\begin{itemize}[leftmargin=*]
+			\item Shock compression of condensed matter topical conference (American Physical Society)
+			\item Received an award of USD 750.00 (twice)
+		\end{itemize}
+		\vspace*{0.5em}
+		\item[]\textbf{IIT Madras Summer Fellowship} \hfill \textit{(Summer 2011)}
+		\item[]Department of Applied Mechanics, Indian Institute of Technology, Madras
+		\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+			\item \textit{Title: }Non-linear analysis of discrete structures -- Truss, Beam, and Frame
+			\item \textit{Mentor}:~Prof.~M.~S.~Sivakumar
+		\end{itemize}
+	\end{itemize}
+	
+	\section*{{Publications in International Peer-reviewed Journals}}
+	\begin{enumerate}[label={[\arabic*]}, leftmargin=*]
+		\item Bastian Telgen, \textbf{Vignesh Kannan}, Jean-Charles Bail, Charles D.~Dorn, Hannah Niese \emph{\&} Dennis M.~Kochmann, \href{https://doi.org/10.1016/j.jmps.2024.105762}{Rainbow trapping of out-of-plane mechanical waves in spatially variant beam lattices}, \textit{Journal of the Mechanics and Physics of Solids (2024)} \label{jmps2024}
+		\item \textbf{Vignesh Kannan} \emph{\&} Dennis M.~Kochmann, \href{https://doi.org/10.1016/j.eml.2022.101898}{Rate-dependent ferroelectric switching in barium titanate ceramics from modified PUND experiments}, \textit{Extreme Mechanics Letters (2022)} \label{eml2022}
+		\item \textbf{Vignesh Kannan}, Morgan Trassin  \emph{\&} Dennis M.~Kochmann, \href{https://doi.org/10.1016/j.mtla.2022.101553}{Kinetics of ferroelectric switching in poled barium titanate ceramics: Effects of electrical cycling rate}, \textit{Materialia (2022)} \label{mat2022}
+		\item Raphael N.~Glaesener, Jan-Hendrik Bastek, Frederick Gonon, \textbf{Vignesh Kannan}, Bastian Telgen, Ben Sp\"{o}ttling, Stephan Steiner \emph{\&} Dennis M.~Kochmann, \href{https://www.sciencedirect.com/science/article/pii/S0022509621002180}{Viscoelastic truss metamaterials as time-dependent generalized continua}, \textit{Journal of the Mechanics and Physics of Solids (2021)} \label{jmps2021}
+		\item \textbf{Vignesh Kannan}, Xiaolong Ma, Nicholas M.~Krywopusk, Laszlo J.~Kecskes, Timothy P.~Weihs \emph{\&} K.~T.~Ramesh, \href{https://link.springer.com/article/10.1007/s10853-019-03838-5}{The effect of strain rate on the mechanisms of plastic flow and failure of an ECAE AZ31B magnesium alloy}, \textit{Journal of Materials Science (2019)} \label{jms2019}
+		\item Debjoy D.~Mallick, Meng Zhao, Jason Parker, \textbf{Vignesh Kannan}, B.~T.~Bosworth, Dinakar Sagapuram, Mark A.~Foster \emph{\&} K.~T.~Ramesh, \href{https://link.springer.com/article/10.1007/s11340-019-00519-x}{Laser-Driven Flyers and Nanosecond-Resolved Velocimetry for Spall Studies in Thin Metal Foils}, \textit{Experimental Mechanics (2019)} \label{em2019}
+		\item \textbf{Vignesh Kannan}, Kavan Hazeli \emph{\&} K.~T.~Ramesh, \href{https://www.sciencedirect.com/science/article/pii/S0022509617309201}{The mechanics of dynamic twinning in single crystal magnesium}, \textit{Journal of the Mechanics and Physics of Solids (2018)} \label{jmps2018}
+		\item Meng Zhao, \textbf{Vignesh Kannan} \emph{\&} K.~T.~Ramesh, \href{https://www.sciencedirect.com/science/article/pii/S1359645418303641}{The dynamic plasticity and dynamic failure of a magnesium alloy under multiaxial loading}, \textit{Acta Materialia (2018)} \label{actmat2018}
+		\item C.~J.~Hustedt, P.~K.~Lambert, \textbf{V.~Kannan}, E.~L.~Huskins-Retzlaff, D.~T.~Casem, M.~W.~Tate, H.~T.~Philipp, A.~R.~Woll, P.~Purohit, J.~T.~Weiss, S.~M.~Gruner, K.~T.~Ramesh \emph{\&} T.~C.~Hufnagel, \href{https://link.springer.com/article/10.1007/s40870-018-0152-8}{In Situ Time-Resolved Measurements of Extension Twinning During Dynamic Compression of Polycrystalline Magnesium}, \textit{Journal of Dynamic Behavior of Materials (2018)} \label{jdbm2018}
+		\item P.~K.~Lambert, C.~J.~Hustedt, K.~S.~Vecchio, E.~L.~Huskins, D.~T.~Casem, S.~M.~Gruner, M.~W.~Tate, H.~T.~Philipp, A.~R.~Woll, P.~Purohit, J.~T.~Weiss, \textbf{V.~Kannan}, K.~T.~Ramesh, P.~Kenesei, J.~S.~Okasinski, J.~Almer, M.~Zhao, A.~G.~Ananiadis \emph{\&} T.~C.~Hufnagel, \href{https://aip.scitation.org/doi/full/10.1063/1.4893881}{Time-resolved x-ray diffraction techniques for bulk polycrystalline materials under dynamic loading}, \textit{Review of Scientific Instruments (2014)} \label{rsi2014}
+	\end{enumerate}
+	
+	\section*{{Manuscripts in Preparation}}
+	\begin{itemize}[wide, labelwidth=!, labelindent=0em]
+		\itemsep0em
+		\item[-] \textbf{Vignesh Kannan}, Marc Kremer Ayuso \emph{\&} Dennis M.~Kochmann, Effects of electric field and polarization on the broadband viscoelastic response of ferroelectric ceramics \label{ferrovisco1}
+		\item[-] \textbf{Vignesh Kannan}, Charles Dorn \emph{\&} Dennis M.~Kochmann, Microscale architected metamaterials for elastic wave guiding: Fabrication and dynamic characterization across length and time scales \label{waferwavesmethods}
+		\item[-] Charles Dorn$^{*}$, \textbf{Vignesh Kannan}$^{*}$ \emph{\&} Dennis M.~Kochmann, Graded phononic metamaterials: Scalable design meets scalable microfabrication \label{waferwavesdesign}
+	\end{itemize}
+
+	\section*{{Invited Presentations}}
+	\begin{enumerate}[label={[\arabic*]}, leftmargin=*]
+		\itemsep 5pt
+		\item \href{https://www.youtube.com/watch?v=YmLRJPUaMiw}{Rate-dependent material response and defect kinetics -- from material strength towards multiphysics, at the extremes}, \textit{Laboratoire de M\'{e}chanique des Solides Seminar, \'{E}cole Polytechnique, Paris, France (May 2022)} \label{ecole2022}
+		\item \href{https://www.youtube.com/watch?v=KJaa1TNWZrM&t=2661s}{Defect kinetics and the dynamic response of materials: From high-strain-rate material strength towards multifunctionality}, \textit{Engineering and Applied Sciences Forum (EASF) Webinar (March 2022)} \label{easf2022}
+		\item \href{https://www.youtube.com/watch?v=U4-B_NNvWPY&ab_channel=IIScMechanicalEngineering}{Kinetics of polarization switching and electromechanical coupling in ferroelectric ceramics},\textit{ Virtual Symposium on Experimental Mechanics in honor of Prof.~K.R.Y.~Simha, Indian Institute of Science, Bengaluru (2020)} \label{iiscsimha2020}
+		\item Twinning and the dynamic behavior of magnesium and its alloys, \textit{Department of Applied Mechanics, Indian Institute of Technology, Madras (2019)} \label{iitm2019}
+	\end{enumerate}
+	
+	\section*{\large\textsc{Conference Posters \emph{\&} Presentations}\footnote[2]{selective list}}
+	\begin{enumerate}[label={[\arabic*]}, leftmargin=*]
+		\itemsep 5pt
+		\item \textbf{V. Kannan}, M. Trassin \emph{\&} D. M. Kochmann, Rate dependence of polarization switching and coupled mechanical behavior of ferroelectric ceramics, \textit{18th European Mechanics of Materials Conference, University of Oxford (2022)}
+		\item \textbf{V. Kannan}, M. Trassin \emph{\&} D. M. Kochmann, Kinetics of polarization switching in poled barium titanate ceramics, \textit{25th International Congress of Theoretical and Applied Mechanics, Milan (online) (2021)}
+		\item \textbf{V. Kannan}, N. Krywopusk, X. Ma, L. Kecskes, T. P. Weihs \emph{\&} K.T. Ramesh, The effect of strain-rate on plastic flow and failure of an AZ31B magnesium alloy, \textit{Society for Experimental Mechanics Annual Conference and Exposition, Greenville (2018)}
+		\item \textbf{V.~Kannan}, K.~Hazeli \emph{\&} K.~T.~Ramesh, The mechanics of twinning under high strain rates: Dynamics, \textit{American Physical Society, Shock Compression of Condensed Matter topical conference (2017)}  \textbf{(Travel award recipient)}
+		\item \textbf{V. Kannan}, K.T. Ramesh \emph{\&} K. Hazeli, The mechanics of twinning under high strain-rates: Dynamics, \textit{Mach Conference, Annapolis MD (2017)} \textbf{{{(Peoples' choice best poster award winner)}}}
+		\item \textbf{V.~Kannan}, N.~Krywopusk, K.~T.~Ramesh, T.~P.~Weihs, L.~Kecskes, D.~Casem, Strength and strain localization in an AZ31B magnesium alloy: Strain rate effects, \textit{Society of Engineering Science 53rd Annual Technical Meeting, College Park, MD (2016)}
+		\item \textbf{V. Kannan}, N. Krywopusk, L. Kecskes, T.P. Weihs \emph{\&} K.T. Ramesh, Dynamic heterogeneous failures in polycrystalline AZ31B magnesium, \textit{Society for Experimental Mechanics, Orlando, FL (2016)} \textbf{{(International student paper competition finalist)}}
+		\item \textbf{V.~Kannan}, N.~Krywopusk, K.~Hazeli, K.~T.~Ramesh, T.~P.~Weihs, The effect of strain rate on the strength and anisotropy of ECAE AZ31B magnesium alloy, \textit{Mach conference, Annapolis, MD (2016)}
+		\item \textbf{V.~Kannan}, N.~Krywopusk, L.~Kecskes, D.~Casem, T.P.~Weihs \& K.T.~Ramesh, Dynamic plasticity in a magnesium alloy: Microstructural \& continuum effects, \textit{American Physical Society, Shock Compression of Condensed Matter topical conference (2015)}  \textbf{(Travel award recipient)}
+		\item \textbf{V.~Kannan} \& K.T.~Ramesh, Twinning and the mechanical behavior of AZ31B at very high strain rates, \textit{Society of Engineering Science 51st Annual Technical Meeting, Purdue University (2014)}
+	\end{enumerate}
+	\begin{comment}
+	\newpage
+	\section*{\large\textsc{References}}
+	\begin{enumerate}[label={[\arabic*]}, leftmargin=*]
+		\itemsep 5pt
+		\item \href{https://imes.ethz.ch/the-institute/people/prof-dr-dennis-kochmann.html}{Prof.~Dr.~Dennis M.~Kochmann} \\
+		Mechanics and Materials Lab \\
+		Department of Mechanical and Process Engineering, ETH Z\"{u}rich \\
+		E-mail: \href{mailto:dmk@ethz.ch}{dmk@ethz.ch} \\
+		Phone: \href{tel:+41446323276}{+41 44 632 32 76}
+		
+		\item \href{https://hemi.jhu.edu/the-hemi-team/leadership/k-t-ramesh/}{Prof.~K.~T.~Ramesh} \\
+		Alonzo G. Decker Jr. Professor of Science and Engineering \\ 
+		Director, Hopkins Extreme Materials Institute \\
+		Department of Mechanical Engineering, Johns Hopkins University \\
+		E-mail: \href{mailto:ramesh@jhu.edu}{ramesh@jhu.edu}\\
+		Phone: \href{tel:+14105167735}{+1 (410) 516-7735}
+		
+		\item \href{https://engineering.jhu.edu/materials/faculty/todd-c-hufnagel/}{Prof.~Todd.~C.~Hufnagel} \\
+		Department of Materials Science and Engineering, Johns Hopkins University \\ E-mail: \href{mailto:hufnagel@jhu.edu}{hufnagel@jhu.edu}\\
+		Phone: \href{tel:+14105166277}{+1 (410) 516-6277}
+		
+		\item \href{https://weihsgroup.jhu.edu/people/timothy-weihs/}{Prof.~Timothy Weihs} \\
+		Department of Materials Science and Engineering, Johns Hopkins University \\ E-mail: \href{mailto:weihs@jhu.edu}{weihs@jhu.edu}\\
+		Phone: \href{tel:+14105164071}{+1 (410) 516-4071}
+	\end{enumerate}
+	
+	\end{comment}
+	
+\end{document}

@@ -1,0 +1,6 @@
+format:
+  html:
+    toc: false
+    page-layout: full
+    theme: ../../vigilab.scss
+    css: ../../styles/news.css

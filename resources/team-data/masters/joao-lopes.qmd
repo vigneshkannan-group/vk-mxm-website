@@ -1,0 +1,25 @@
+::: {.teamstud-card}
+![](resources/images/headshots/joao.jpg)
+
+:::{.team-info}
+### Joao Moreira Lopes
+
+#### Research: <span class="smallfont">Multi-axial torsional kolsky bars</span>
+
+####
+<span style="font-size: smaller;font-weight: 100">
+  B.S., Universidade Federal do Rio Grande, Brazil <br>
+  M.S., ENSTA-IP Paris, France
+</span><br>
+
+####
+<span style="font-size: smaller;font-weight: 100"><i class="fas fa-envelope"></i> 
+<a href="mailto:joao.moreira@ensta.fr">joao.moreira@ensta.fr</a>
+</span><br>
+
+<i class="fas fa-map-marker-alt"></i><span style="font-size: smaller;font-weight: 100"> 
+Pole Mecanique (Building# 104)
+</span>
+
+:::
+:::

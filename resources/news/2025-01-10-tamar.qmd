@@ -1,0 +1,16 @@
+---
+title: "Tamar joins the team"
+synopsis: "Tamar Tsikarishvili joins the team to start her Bachelor thesis."
+image: "../images/headshots/tamar.jpg"
+date: 2025-01-10
+categories: [team]
+format: 
+  html:
+    theme: ../../vigilab.scss
+    css: ../../styles/news.css
+---
+###
+
+:::{.custom-margin}
+Tamar Tsikarishvili has started her bachelor's thesis with us. She will be developing designs for miniature dynamic experiments under multi-axial stresses. All the best, Tamar!
+:::

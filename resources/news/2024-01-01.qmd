@@ -1,0 +1,22 @@
+---
+title: "To new beginnings..."
+synopsis: "I am moving to the Ecole Polytechnique in Palaiseau, France..."
+image: "../images/news/2025-01-01-ecole.jpg"
+date: 2024-01-01
+categories: [news]
+format: 
+  html:
+    theme: ../../vigilab.scss
+    css: ../../styles/news.css
+---
+###
+
+:::{.custom-margin}
+I have moved to the Ecole Polytechnique to begin my career as an Assistant Professor of Mechanics. My research group will explore the areas of dynamic behavior of materials. Stay tuned for updates on the status of our research, and the evolution of the lab and research group. While my time in Switzerland was special and will be dearly missed, I will still be visiting the ETH to continue some of our work on elastic waves in microarchitected metamaterials.
+
+:::{.center}
+![courtesy: Ecole Polytechnique](../images/news/2025-01-01-ecole.jpg){width=100%}
+:::
+
+:::
+

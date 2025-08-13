@@ -1,0 +1,16 @@
+:::{.research-card}
+
+
+![](resources/research/mag-plast.jpg)
+
+:::{.research-info}
+
+With a density two-thirds that of aluminium, magnesium is currently sought after as the next-generation light-weight structural metal for a technology-driven, energy-sustainable future. Naturally, many applications of these materials require them to be resilient under impact loading conditions such as, in car crashes, military applications and space exploration. However, the mechanisms of plastic deformation and failure are non-intuitive at time scales on the order of micro-seconds and less. My doctoral research focused on understanding the fundamental mechanisms governing the strength of magnesium and it's alloys. 
+
+<strong>Collaborators:</strong> Prof. K. T. Ramesh (JHU - PhD advisor), Dr. Meng Zhao (JHU), Dr. Debjoy Mallick (US Army Research Labs), Prof. Todd Hufnagel (JHU), Dr. Andrew Leong (JHU)
+
+:::
+:::
+
+
+

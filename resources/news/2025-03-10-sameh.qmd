@@ -1,0 +1,16 @@
+---
+title: "Sameh starts his master thesis"
+synopsis: "Sameh Ammari starts his six-month M2 masters thesis in the team."
+image: "../images/headshots/sameh.jpeg"
+date: 2025-03-10
+categories: [team]
+format: 
+  html:
+    theme: ../../vigilab.scss
+    css: ../../styles/news.css
+---
+###
+
+:::{.custom-margin}
+We welcome back Sameh Ammari who will be spending the next six months developing precision miniature dynamic impact experiments in the group. Great to have you back Sameh!
+:::

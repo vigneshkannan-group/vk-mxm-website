@@ -1,0 +1,19 @@
+---
+title: "We are hiring!"
+synopsis: "We are looking for a motivated and passionate doctoral student to join our team"
+image: "images/00title.jpg"
+date: 2024-08-07
+categories: [team]
+format: 
+  html:
+    theme: ../../vigilab.scss
+    css: ../../styles/news.css
+---
+###
+
+:::{.custom-margin}
+The team is growing! We are looking for a passionate experimentalist to join our team as a doctoral student. 
+
+The project will focus on studying impact-induced phase transformations in shape memory alloys using high-speed, high resolution experimental techniques. The successful candidate will work at the interface of experimental mechanics, dynamic behavior of materials, and materials science. Does this excite you? If yes, we are excited to talk to you, too! Details about submitting your application can be found at the [Open positions](../../positions.qmd) page.
+
+:::

@@ -1,0 +1,25 @@
+:::{.team-card}
+![](resources/images/headshots/mathieu.jpg)
+
+:::{.team-info}
+
+### Mathieu Brodmann
+<span class="smallfont">(ETH Zurich, co-advised with Prof. Dennis M. Kochmann)</span>
+
+#### Research: <span class="smallfont">In-situ measurement of domain wall kinetics in ferroelectric crystals</span>
+
+####
+<span class="smallfont">
+M.S., ETH Zurich, Switzerland<br>
+B.S., ETH Zurich, Switzerland
+</span>
+
+####
+<span class="smallfont"><i class="fas fa-envelope"></i> [mathieubr@ethz.ch](mailto:mathieubr@ethz.ch) </span> 
+<span class="smallfont"><i class="fas fa-phone"></i> [+41 44 632 63 76](tel:+41446326376) </span> <br>
+<i class="fas fa-map-marker-alt"></i><span class="smallfont"> 
+Mechanics & Materials Lab, CLA J31 <br>
+Tannenstrasse 3, 8092 Zurich</span>
+
+:::
+:::
