@@ -185,6 +185,9 @@ body::before {
 /* Custom margin */
 .custom-margin {
   margin: 0vh 10vw;  /* top/bottom: 5% of viewport height, sides: 10% of viewport width */
+  font-size: 1.20rem; /* Adjusted for better visibility */
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #05014a;
 }
 
 /* Customize section title font sizes */
