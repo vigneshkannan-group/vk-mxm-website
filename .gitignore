@@ -2,3 +2,6 @@ _site/
 *.log
 *.aux
 *.toc
+*.eps
+*.ai
+*.psd
