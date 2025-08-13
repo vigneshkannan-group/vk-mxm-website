@@ -1,0 +1,17 @@
+---
+title: "Tamar completes her Bachelor thesis"
+synopsis: "Congratulations to Tamar on a successful defense of her Bachelor thesis!"
+image: "../images/headshots/tamar.jpg"
+date: 2025-03-24
+categories: [team]
+format: 
+  html:
+    theme: ../../vigilab.scss
+    css: ../../styles/news.css
+---
+###
+
+:::{.custom-margin}
+Congratulations to Tamar Tsikarishvili on completing her Bachelor Thesis defence! Tamar spent 10 weeks working on a new design for a dynamic shear experiment (a Torsional Kolsky bar). She performed admirably, and passed her defense with flying colors. 
+Tamar is now exploring new waters literally! She is about to start a Nordic masters program in Maritime Engineering. While we are sad to see her go, we wish her great success in her future endeavors!
+:::

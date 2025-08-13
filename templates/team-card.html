@@ -1,0 +1,14 @@
+<div class="team-card">
+  <img src="{{ data.image }}" alt="{{ data.name }}">
+  <div class="team-info">
+    <h3>{{ data.name }}</h3>
+    <p><em>{{ data.title }}</em></p>
+    <p><strong>Education:</strong><br>{{ data.education }}</p>
+    {% if data.email %}
+    <p><i class="fas fa-envelope"></i> <a href="mailto:{{ data.email }}">{{ data.email }}</a></p>
+    {% endif %}
+    {% if data.phone %}
+    <p><i class="fas fa-phone"></i> {{ data.phone }}</p>
+    {% endif %}
+  </div>
+</div>

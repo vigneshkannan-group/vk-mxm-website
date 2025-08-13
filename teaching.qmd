@@ -1,0 +1,10 @@
+---
+title: "Teaching"
+toc: false
+format: 
+  html:
+    theme: vigilab.scss
+    css: styles/teaching.css
+---
+
+About this site

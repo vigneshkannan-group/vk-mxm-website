@@ -1,0 +1,17 @@
+---
+title: "News and Events"
+toc: false
+listing: 
+  type: default
+  contents: resources/news
+  sort: "date desc"
+  fields: [title, date, synopsis, image]
+  image-align: right
+  categories: false
+  sort-ui: false
+  feed: true
+format: 
+  html:
+    theme: vigilab.scss
+    css: styles/news.css
+---

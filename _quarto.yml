@@ -1,0 +1,61 @@
+project:
+  # files in this folder will be copied to the relevant html page
+  resources: 
+    - "resources"
+  type: website
+  render: 
+    - "*.qmd"
+
+website:
+  title: "Mechanics and Materials under Extremes"
+  favicon: "resources/images/logos/VigiLab_shrt.png"
+  reader-mode: false
+  site-url: https://example.com
+  navbar:
+    title: "Mechanics & Materials<br>under Extremes"
+    logo: "resources/images/logos/VigiLab_shrt.png"
+    pinned: true
+    collapse: true
+    collapse-below: md
+    right:
+      - href: index.qmd
+        text: Home
+      - href: team.qmd
+        text: The Team
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: news.qmd
+        text: News and Events
+      - href: positions.qmd
+        text: Open positions
+  sidebar: false
+  page-footer:
+    background: transparent
+    left:
+      - text: "Solid Mechanics Laboratory (LMS)<br> Ecole Polytechnique, Institut Polytechnique de Paris"
+    right:
+      - text: "Email: vignesh.kannan@polytechnique.edu<br>Phone: +33 (0) 1 69 33 57 44"
+
+format:
+  html:
+    anchor-sections: false
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    theme:
+      - vigilab.scss
+    css:
+      - styles/styles.css
+    toc: false
+    link-external-newwindow: true
+    date-format: "DD MM YYYY"
+    smooth-scroll: true
+    include-after-body: resources/js/carousel.js
+header-includes:
+  - <script src="resources/js/carousel.js"></script>
+
+brand: brand/_brand.yml

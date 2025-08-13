@@ -1,0 +1,20 @@
+---
+title: "Our first team picture"
+synopsis: "A first picture of our young, budding experimentalists."
+image: "images/group_pic1.jpeg"
+date: 2025-06-30
+categories: [lab]
+format: 
+  html:
+    theme: ../../vigilab.scss
+    css: ../../styles/news.css
+---
+###
+
+:::{.custom-margin}
+We took a first picture of our small team of budding experimental scientists. Sameh (on the right) is doing his master's thesis on miniature dynamic experiments. Next to him is yours truly, who has the pleasure of mentoring this team. Then we have Tamar, our recent graduate, who just completed her undergraduate work on a design for dynamic torsional experiments. Joao, our recent master's intern, is taking Tamar's design towards a working prototype. 
+:::
+
+:::{.center}
+![Our first small team](images/group_pic1.jpeg){width=100%}
+:::

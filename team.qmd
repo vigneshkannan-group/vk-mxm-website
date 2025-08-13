@@ -1,0 +1,51 @@
+---
+title: "The Team"
+toc: false
+format: 
+  html:
+    theme: vigilab.scss
+    css: styles/team.css
+---
+
+## Principal Investigator
+
+::: {.team-container}
+
+{{< include resources/team-data/vignesh-kannan/vignesh-kannan.qmd >}}
+
+:::
+
+## PhD students
+
+::: {.team-container}
+
+{{< include resources/team-data/phd/mathieu-brodmann.qmd >}}
+
+:::
+
+## Post-doctoral scientists
+
+::: {.team-container}
+
+
+:::
+
+## Masters students
+
+::: {.teamstud-container}
+
+{{< include resources/team-data/masters/sameh-ammari.qmd >}}
+{{< include resources/team-data/masters/joao-lopes.qmd >}}
+
+:::
+
+## Undergraduate students
+
+
+## Alumni
+
+{{< include resources/team-data/alum-list.qmd >}}
+
+
+## Collaborators
+

@@ -1,0 +1,37 @@
+:::{.positions-card}
+
+![](resources/positions/images/phase-sma.jpg)
+
+:::{.positions-info}
+
+### Post-doctoral scientist position
+
+We are looking for a motivated and passionate post-doctoral scientist in the area of experimental mechanics and dynamic behavior of materials. You will lead an effort to study phase transformations under multi-axial stress states across a wide range of strain rates -- spanning quasi-static to high-strain-rate dynamic loading conditions. This will involve the development of multi-axial quasi-static, and dynamic compression-tension-torsion experiments towards the discovery of phase transformation kinetics. 
+
+Does this excite you? Then please do apply! In case of questions, please feel free to contact me at [vignesh.kannan@polytechnique.edu](vignesh.kannan@polytechnique.edu). 
+
+Complete application details can be found in the pdf attached ->
+
+<strong>Application deadline: September 26, 2025</strong>
+
+:::
+
+<iframe src="resources/positions/postdoc/postdoc-lms-mmxtrm.pdf" width="30%" height="400px" style="border:none;"></iframe>
+
+:::
+
+<style>
+.pdf-frame {
+  flex: 0 0 30%;
+  height: 500px;
+  border: none;
+}
+
+/* On smaller screens, put iframe below and full width */
+@media (max-width: 1000px) {
+  .pdf-frame {
+    flex: 1 1 100%;
+    height: 500px; /* Adjust height for mobile if needed */
+  }
+}
+</style>

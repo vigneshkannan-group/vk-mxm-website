@@ -1,0 +1,125 @@
+{
+  "index.qmd": {
+    "index.html": "a931c6fc"
+  },
+  "news.qmd": {
+    "news.html": "220c532a"
+  },
+  "positions.qmd": {
+    "positions.html": "ef26ef7a"
+  },
+  "publications.qmd": {
+    "publications.html": "0a3a5579"
+  },
+  "research.qmd": {
+    "research.html": "1dceaeec"
+  },
+  "teaching.qmd": {
+    "teaching.html": "f98f02ff"
+  },
+  "team.qmd": {
+    "team.html": "038604e9"
+  },
+  "resources/team_data/vignesh-kannan.qmd": {
+    "vignesh-kannan.html": "ccb90f2a"
+  },
+  "resources/team-data/joao-lopes.qmd": {
+    "joao-lopes.html": "d2282949"
+  },
+  "resources/team-data/mathieu-brodmann.qmd": {
+    "mathieu-brodmann.html": "f04f2f20"
+  },
+  "resources/team-data/sameh-ammari.qmd": {
+    "sameh-ammari.html": "2cb74dd4"
+  },
+  "resources/team-data/vignesh-kannan.qmd": {
+    "vignesh-kannan.html": "c08c42c9"
+  },
+  "resources/team-data/00pi/vignesh-kannan.qmd": {
+    "vignesh-kannan.html": "19aeae44"
+  },
+  "resources/team-data/01phd/mathieu-brodmann.qmd": {
+    "mathieu-brodmann.html": "0830a429"
+  },
+  "resources/team-data/03masters/joao-lopes.qmd": {
+    "joao-lopes.html": "65463be9"
+  },
+  "resources/team-data/03masters/sameh-ammari.qmd": {
+    "sameh-ammari.html": "f48c02ac"
+  },
+  "resources/team-data/masters/joao-lopes.qmd": {
+    "joao-lopes.html": "3f8e9ae9"
+  },
+  "resources/team-data/masters/sameh-ammari.qmd": {
+    "sameh-ammari.html": "b335a4cd"
+  },
+  "resources/team-data/phd/mathieu-brodmann.qmd": {
+    "mathieu-brodmann.html": "5cae1efb"
+  },
+  "resources/team-data/pi/vignesh-kannan.qmd": {
+    "vignesh-kannan.html": "61682f5d"
+  },
+  "resources/team-data/ugrad/tamar-tsikarishvili.qmd": {
+    "tamar-tsikarishvili.html": "c82167fa"
+  },
+  "resources/team-data/alum-list.qmd": {
+    "alum-list.html": "4ab08480"
+  },
+  "resources/news/2025-01-01.qmd": {
+    "2025-01-01.html": "c1cd1d0c"
+  },
+  "resources/team-data/vignesh-kannan/vignesh-kannan.qmd": {
+    "vignesh-kannan.html": "89714acc"
+  },
+  "resources/news/2024-01-01.qmd": {
+    "2024-01-01.html": "7808ca9b"
+  },
+  "resources/news/2024-07-12-anr.qmd": {
+    "2024-07-12-anr.html": "db7297d3"
+  },
+  "resources/team-data/vignesh-kannan/index.qmd": {
+    "index.html": "92f1a6be"
+  },
+  "resources/news/2024-08-07-hiring.qmd": {
+    "2024-08-07-hiring.html": "1ae1e11f"
+  },
+  "resources/news/2025-01-10-tamar.qmd": {
+    "2025-01-10-tamar.html": "3359d4b7"
+  },
+  "resources/news/2025-03-10-sameh.qmd": {
+    "2025-03-10-sameh.html": "c79b2df5"
+  },
+  "resources/news/2025-03-24-tamar.qmd": {
+    "2025-03-24-tamar.html": "9babb3d3"
+  },
+  "resources/news/2025-05-21-gasgun.qmd": {
+    "2025-05-21-gasgun.html": "07904b0b"
+  },
+  "resources/news/2025-06-30-team.qmd": {
+    "2025-06-30-team.html": "f45627c6"
+  },
+  "resources/research/exp-mech.qmd": {
+    "exp-mech.html": "86a12b5e"
+  },
+  "resources/research/mag-plast.qmd": {
+    "mag-plast.html": "52f0b536"
+  },
+  "resources/research/arch-wave.qmd": {
+    "arch-wave.html": "2a8691de"
+  },
+  "resources/research/mult-ferro.qmd": {
+    "mult-ferro.html": "7807899e"
+  },
+  "resources/research/phase-sma.qmd": {
+    "phase-sma.html": "b7c6be77"
+  },
+  "resources/positions/2024-11-03-phd.qmd": {
+    "2024-11-03-phd.html": "32c065d7"
+  },
+  "resources/positions/2025-08-22-phd.qmd": {
+    "2025-08-22-phd.html": "ba59018f"
+  },
+  "resources/positions/2025-08-22-postdoc.qmd": {
+    "2025-08-22-postdoc.html": "fba1e6a1"
+  }
+}

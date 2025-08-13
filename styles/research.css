@@ -1,0 +1,344 @@
+/* css styles */
+
+/* Force full-width layout */
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  padding-top: 4rem;
+}
+
+/* Ensure all elements respect box size (padding doesn't break layout) */
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+
+body,
+.page-columns,
+.page-columns .content,
+.container,
+main.content,
+.content > div,
+.quarto-container,
+.quarto-page,
+.quarto-article {
+  display: block !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 !important;
+  margin: 0 auto !important;
+  margin-left: 1vw !important;
+  margin-right: 0vw !important;
+  margin-top: 3vh !important;
+  box-sizing: border-box;
+}
+
+.column-margin {
+  display: none !important;
+}
+
+body, .page-columns, .container, .content {
+  background-color: transparent !important;
+  line-height: 1.50;
+  font-size: 1.10rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+  margin-left: 0vw;
+  margin-right: 0vw;
+  padding: 0;
+}
+
+section {
+  margin: 0vw;
+  padding: 0;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("../resources/images/title/00title.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.4; /* 👈 Set your desired opacity here */
+  z-index: -1; /* Keeps image behind other content */
+  background-color: rgba(255, 255, 255, 0.5); /* soft white overlay */
+  background-blend-mode: overlay;
+}
+
+/* Research card styles */
+.research-container {
+  display: flex !important;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 75vw !important;
+  max-width: 75vw !important;
+  gap: 0rem;
+  margin-left: 10vw !important;
+  margin-top: 3rem;
+  justify-content: center;
+  padding: 0rem;
+  align-items: center; /* Align items to the left */
+  text-align: left;
+}
+
+.research-card {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 2rem;
+  width: 75vw;
+  max-width: 75vw;
+  margin: 1rem auto 0 auto;
+  margin-left: 10vw;
+  border-radius: 1rem;
+  overflow: hidden;
+  background-color: transparent;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.research-card:hover {
+  box-shadow: 0 4px 20vw rgba(0, 0, 0, 0.2); /* Adds shadow on hover */
+}
+
+
+.research-card img {
+  flex: 0 0 20vw; /* fixed column for image */
+  aspect-ratio: 4 / 3 !important; /* Maintain aspect ratio */
+  max-width: 25vw;
+  max-height: 30vh;
+  object-fit: cover; /* keep aspect ratio */
+  display: block;
+} 
+
+.research-info {
+  flex: 1; /* fill remaining space */
+  padding-left: 1rem; /* spacing between img and text */
+  box-sizing: border-box;
+  line-height: 2rem;
+  font-size: larger;
+  font-weight: bold;
+  color: #05014a;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-left: 0vw;
+  margin-right: auto;
+  text-align: left;
+}
+
+.research-info h3 {
+  margin: 0.5rem 0;
+  font-size: 1.25rem; /* Adjusted for better visibility */
+}
+
+.research-info p {
+  margin: 0.5rem 0;
+  margin-top: 1rem;
+  font-size: 1.20rem; /* Adjusted for better visibility */
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300;
+  color: #05014a;
+}
+
+/* Switch to column layout for smaller screens */
+@media (max-width: 1000px) {
+  .research-card {
+    flex-direction: column;
+    align-items: center; /* centers image + text */
+    text-align: center;  /* centers text */
+  }
+
+  .research-card img {
+    max-width: 80%; /* larger image in column view */
+    flex: 0 0 auto; /* remove fixed width */
+    margin-bottom: 1rem; /* space between img and text */
+  }
+
+  .research-info {
+    padding-left: 0; /* no side padding in column mode */
+  }
+}
+
+/* Centered content */
+.center {
+  text-align: center;
+  margin-left: 0vw;
+  margin-right: 15vw;
+  align-items: center;
+}
+
+.center img {
+  display: inline-block;
+  width: 100%;
+  align-items: center;
+}
+
+/* Customize section title font sizes */
+h1 {
+  font-size: 2.25rem; /* top-level page title */
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.6rem;   /* main section */
+}
+
+h3 {
+  font-size: 1.50rem; /* subsection */
+}
+
+h4 {
+  font-size: 1.10rem;
+  font-style: oblique; /* sub-subsection */
+  font-weight: 500;
+}
+
+.smallfont {
+  font-size: 1.1rem; /* smaller font for less important text */
+  font-weight: 100; /* lighter weight for less emphasis */
+  font-style: normal;
+}
+
+/* Optional: consistent spacing */
+.anchor-link {
+  position: absolute;
+}
+
+h1 {
+  text-align: center;
+  position: relative;
+  margin-left: -10vw;
+  margin-top: 0.5em;
+  margin-bottom: 5vh;
+  line-height: 1.25;
+}
+
+h3, h4 {
+  text-align: left;
+  position: relative;
+  margin-left: 0vw;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  line-height: 1.50;
+}
+
+h2 {
+  text-align: center;
+  position: relative;
+  margin-left: -10vw;
+  margin-top: 5vh;
+  margin-bottom: 0.5em;
+  line-height: 1.50;
+}
+
+h2::after {
+  content: "";
+  position: absolute;
+  width: 5vw;
+  height: 0.2rem;
+  background-color: #05014a; /* dark blue */
+  bottom: -0.5rem; /* position below the heading */
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Fine-tune margins for mobile screens */
+@media (max-width: 1000px) {
+  .team-card {
+    flex-direction: column;
+    height: auto;
+    align-items: center; /* center content in column layout */
+    align-content: center;
+    text-align: center;
+  }
+
+  .team-card img {
+    height: 25vh;
+    aspect-ratio: 3 / 4; /* Maintain aspect ratio */
+    max-width: none;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+  }
+
+  .team-info {
+    align-items: center; /* center content in column layout */
+    align-content: center;
+    text-align: center;
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.5rem;
+  }
+
+  h3 {
+    text-align: center;
+    font-size: 1.25rem; /* Adjust heading size for smaller screens */
+    margin-top: 0.5rem;
+    margin-bottom: 0.2rem;
+  }
+}
+
+@media (max-width: 1500px) {
+  .teamstud-card {
+    flex-direction: column;
+    height: auto;
+    align-items: center; /* center content in column layout */
+    align-content: center;
+    text-align: center;
+  }
+
+  .teamstud-card img {
+    height: 25vh;
+    aspect-ratio: 3 / 4; /* Maintain aspect ratio */
+    max-width: none;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+  }
+
+  .teamstud-info {
+    align-items: center; /* center content in column layout */
+    align-content: center;
+    text-align: center;
+    padding: 1rem 1.5rem;
+    font-size: 1.2rem;
+    font-weight: normal;
+    line-height: 1.5rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  body {
+    margin-left: 2vw;
+    margin-right: 2vw;
+  }
+
+  section {
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5vw;
+    margin-bottom: 1.5vw;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+  }
+
+  p {
+    margin-bottom: 1vw;
+  }
+
+  footer {
+    margin-top: 2vw;
+  }
+}

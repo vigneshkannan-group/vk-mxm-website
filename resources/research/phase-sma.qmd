@@ -1,0 +1,15 @@
+:::{.research-card}
+
+![](resources/research/phase-sma.jpg)
+
+:::{.research-info}
+
+I am developing a new program at the LMS to investigate the kinetics of phase transformations in a wide range of shape memory alloys (SMAs) under large multi-axial stress states and very short time scales. Development of dynamic, high-resolution experiments with multi-physical coupling is ongoing in the lab -- with a lot of excitement! We eventually hope to discover the mechanisms behind such complex dynamic phenomena -- one direction towards our broad goal of discovering micromechanics of defects under extreme conditions.
+
+Collaborators: Prof. Suraj Ravindran (U. Minnesota)
+
+:::
+:::
+
+
+

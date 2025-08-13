@@ -1,0 +1,60 @@
+---
+title: ""
+toc: false
+class: homepage
+format: 
+  html:
+    theme: vigilab.scss
+    css: styles/styles.css
+---
+
+:::{.carousel}
+<div class="carousel-slide">
+  <img src="resources/images/title/00title.png" alt="slide_intro">
+  <div class="carousel-titlecaption"><b>Mechanics and Materials under Extremes</b> <br> 
+  <span style="font-size: smaller;font-weight: 300">We study materials under extreme conditions of stress, multi-physical fields, and at short time scales.</span></div>
+</div>
+
+<div class="carousel-slide">
+  <img src="resources/images/title/05expintro.jpg" alt="slide_experiments">
+  <div class="carousel-caption"><b>Experimental mechanics across extreme conditions</b> <br> 
+  <span style="font-size: smaller;font-weight: 100">We develop specialized experiments motivated by the discovery of micromechanisms governing material response across length and time scales</span></div>
+</div>
+
+<div class="carousel-slide">
+  <img src="resources/images/title/01twindynamics.jpg" alt="slide_metals">
+  <div class="carousel-caption"><b>Multi-scale mechanics of structural metals</b> <br> 
+  <span style="font-size: smaller;font-weight: 100">How do metals behave under large strain rates and pressures? What are the fundamental mechanisms governing this response?</span></div>
+</div>
+
+<div class="carousel-slide">
+  <img src="resources/images/title/04ferrointro.jpg" alt="slide_ferro">
+  <div class="carousel-caption"><b>Multiphysical coupling in ferroelectric materials</b> <br> 
+  <span style="font-size: smaller;font-weight: 100">We explore the origins of polarization switching and viscoelastic coupling in ferroelectric crystals at the meso length scales.</span></div>
+</div>
+
+<div class="carousel-slide">
+  <img src="resources/images/title/03wavesintro.jpg" alt="slide_waveguide">
+  <div class="carousel-caption"><b>Microscale metamaterials for elastic wave guiding</b> <br> 
+  <span style="font-size: smaller;font-weight: 100">Can we design, fabricate and characterize elastic wave guides with control over orders of magnitude in length scale?</span></div>
+</div>
+
+:::
+
+:::{.carousel-nav}
+<span class="prev">&#10094;</span>
+<span class="next">&#10095;</span>
+
+:::
+
+##
+:::{.custom-margin}
+Welcome! We are a growing team of undergraduate and graduate students, post-doctoral scientists and engineers, who study **materials and structures under extreme conditions of stress, strain rate and multi-physical fields, at short time scales**, within the <a href="https://lms.ip-paris.fr/" target="_blank">Solid Mechanics Laboratory (LMS), Department of Mechanics</a> at the Ecole Polytechnique in France. 
+
+Our primary tools of choice to study these problems are experimental. We use mechanical design, electronic and optical instrumentation to push the cutting edge of studying materials and structures down to time scales of nanoseconds, and length scales from the macroscopic down to micrometers. 
+
+Our experiments allow us to "see" the wondrous complexity of nature, but to comprehend this complexity we need models. We enjoy working with mathematical modelers to help understand complex phenomena, and hope to become amateur modelers some day! ​​​We hope you have fun reading about our work, and learn something in the process. If you would like to work with our team, know more about us, or teach us something more, please feel free to reach out! <a href="team.qmd" target="_blank">Find out who we are!</a>
+
+To follow our most recent updates follow our [News and Events](news.qmd) page. 
+
+:::

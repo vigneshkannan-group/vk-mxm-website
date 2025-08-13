@@ -1,0 +1,32 @@
+---
+title: "Research"
+toc: false
+format: 
+  html:
+    theme: vigilab.scss
+    css: styles/research.css
+---
+
+::: {.research-container}
+
+## Experimental mechanics at the extremes
+
+{{< include resources/research/exp-mech.qmd >}}
+
+## Dynamic phase transformations in shape memory alloys
+
+{{< include resources/research/phase-sma.qmd >}}
+
+## Wave propagation in microarchitected materials
+
+{{< include resources/research/arch-wave.qmd >}}
+
+## Mechanics and multi-physical coupling in ferroelectric materials
+
+{{< include resources/research/mult-ferro.qmd >}}
+
+## Plasticity and failure in magnesium alloys at high rates
+
+{{< include resources/research/mag-plast.qmd >}}
+
+:::

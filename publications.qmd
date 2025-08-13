@@ -1,0 +1,10 @@
+---
+title: "Publications"
+toc: false
+format: 
+  html:
+    theme: vigilab.scss
+    css: styles/publications.css
+---
+
+About this site

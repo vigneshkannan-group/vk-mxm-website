@@ -1,0 +1,16 @@
+<a href="{{ url | relative_url }}" class="news-card">
+  <div class="news-card-image">
+    {% if image %}
+      <img src="{{ image | relative_url }}" alt="{{ title }}">
+    {% endif %}
+  </div>
+  <div class="news-card-info">
+    <h3 class="news-card-title">{{ title }}</h3>
+    {% if date %}
+      <p class="news-card-date">{{ date | date: "%B %d, %Y" }}</p>
+    {% endif %}
+    {% if synopsis %}
+      <p class="news-card-synopsis">{{ synopsis }}</p>
+    {% endif %}
+  </div>
+</a>

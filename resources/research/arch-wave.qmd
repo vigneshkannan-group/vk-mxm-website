@@ -1,0 +1,15 @@
+:::{.research-card}
+
+![](resources/research/arch-wave.jpg)
+
+:::{.research-info}
+
+Architected materials are materials whose properties are designed at a fundamental unit cell length scale, and governed by the arrangement of these unit cells. We are interested in a specific class of such materials whose elastic wave dispersion characteristics may be designed through complex architectures at microscopic length scales. However, the ability to fabricate such materials, and measure their broadband acoustic dispersion characteristics are non-trivial, requiring significant development. We have broken new ground in the fabrication of dense architectures at the micrometer scales, and are now attempting to push the limits of understanding and controlling wave-guiding behavior through multi-scale design and characterization tools developed in house. 
+
+<strong>Collaborators:</strong> Prof. Charles Dorn (U. Washington at Seattle), Prof. Dennis M. Kochmann (ETH Zurich)
+
+:::
+:::
+
+
+

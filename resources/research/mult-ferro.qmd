@@ -1,0 +1,15 @@
+:::{.research-card}
+
+![](resources/research/mult-ferro.jpg)
+
+:::{.research-info}
+
+Ferroelectrics are a class of electro-active materials, ubiquitous across a wide range of technological applications e.g., energy harvesting, sensors & transducers, nano-electronics and active structures. At the core of these multi-functional applications is the coupling between electrical, mechanical and thermal fields. Microscopically, this manifests as the heterogeneous evolution of volume defects called "domains", separated by planar defects called "domain walls". Our efforts focus on understanding these dissipative kinetics, their effects on electro-mechanical switching and dynamic viscolelasticity in ferroelectric ceramics and crystals.
+
+<strong>Collaborators:</strong> Prof. Dennis M. Kochmann (ETH), Prof. Morgan Trassin (ETH), Dr. Claire Griesbach (ETH)
+
+:::
+:::
+
+
+

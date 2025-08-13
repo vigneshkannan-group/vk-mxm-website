@@ -1,0 +1,199 @@
+/*-- scss:defaults --*/
+// quarto-scss-analysis-annotation { "origin": "spacelab (builtin theme)" }
+
+$theme: "vigilab" !default;
+
+//
+// Color system
+//
+
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #eee !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #999 !default;
+$gray-600: #777 !default;
+$gray-700: #495057 !default;
+$gray-800: #333 !default;
+$gray-900: #2d2d2d !default;
+$black:    #000 !default;
+
+$dpblue:  #05014a !default;
+$indigo:  #6610f2 !default;
+$purple:  #6f42c1 !default;
+$pink:    #e83e8c !default;
+$red:     #cd0200 !default;
+$orange:  #fd7e14 !default;
+$yellow:  #d47500 !default;
+$green:   #3cb521 !default;
+$teal:    #20c997 !default;
+$cyan:    #3399f3 !default;
+
+$primary:       $dpblue !default;
+$secondary:     $gray-500 !default;
+$success:       $green !default;
+$info:          $white !default;
+$link:          $indigo !default;
+$warning:       $yellow !default;
+$danger:        $red !default;
+$light:         $gray-200 !default;
+$dark:          $gray-800 !default;
+
+$min-contrast-ratio:   2.65 !default;
+
+// Body
+
+$body-color:                $black !default;
+
+// Links
+
+$link-color:                $link !default;
+
+// Fonts
+
+// stylelint-disable-next-line value-keyword-case
+$headings-color:  $primary !default;
+
+
+// Navbar
+
+$navbar-fg:                         $white !default;
+$navbar-light-hover-color:          $white !default;
+$navbar-light-active-color:         $white !default;
+$nav-padding-y:                     1rem !default;
+
+// Footer
+
+/*-- scss:rules --*/
+
+
+// Variables
+
+$web-font-path: "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" !default;
+@if $web-font-path {
+  @import url($web-font-path);
+}
+
+// Mixins
+
+@mixin btn-shadow($color) {
+  @include gradient-y-three-colors(tint-color($color, 24%), $color, 50%, shade-color($color, 8%));
+  filter: none;
+  border: 1px solid shade-color($color, 20%);
+}
+
+// Navbar
+
+.navbar {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  .nav-link,
+  .navbar-brand {
+    text-shadow: -1px -1px 0 rgba($black, .05);
+    transition: color ease-in-out .2s;
+    max-width: fit-content;
+    font-weight: 400;
+    text-align: center;
+    position: relative;
+    font-size: medium;
+    margin-left: 0px;
+    margin-right: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida  Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .navbar-title {
+    text-shadow: -1px -1px 0 rgba($black, .05);
+    transition: color ease-in-out .2s;
+    font-weight: 800;
+    text-align: justify;
+    top: 5px;
+    bottom: 5px;
+    left: 0px;
+    right: auto;
+    font-size: large;
+    max-width: max-content;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .navbar-logo {
+    max-height: 60px;
+    width: auto;
+    align-items: baseline;
+    position: relative;
+    margin-left: 0px;
+    top: 1px;
+    bottom: 1px;
+    right: 0px;
+    left: 0vw;
+  }
+
+  @each $color, $value in $theme-colors {
+    &.bg-#{$color} {
+      @include btn-shadow($value);
+    }
+  }
+
+  &.bg-light, &.navbar-default {
+    .nav-link,
+    .navbar-brand {
+      text-shadow: 1px 1px 0 rgba(255, 255, 255, .1);
+    }
+
+    .navbar-brand {
+      color: $navbar-light-color;
+
+      &:hover {
+        color: $info;
+      }
+    }
+  }
+}
+
+// Buttons
+
+.btn {
+  text-shadow: -1px -1px 0 rgba($black, .1);
+
+  &-link {
+    text-shadow: none;
+  }
+}
+
+@each $color, $value in $theme-colors {
+  .btn-#{$color} {
+    @include btn-shadow($value);
+  }
+
+  .btn-#{$color}:not(.disabled):hover {
+    @include btn-shadow(shade-color($value, 8%));
+  }
+}
+
+[class*="btn-outline-"] {
+  text-shadow: none;
+}
+
+// Indicators
+
+.badge {
+  &.bg-light {
+    color: $dark;
+  }
+}
+
+// Footer
+
+// Containers
+
+.card,
+.list-group-item {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: inherit;
+  }
+}
