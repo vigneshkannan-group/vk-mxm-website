@@ -93,7 +93,7 @@ body::before {
   gap: 2rem;
   justify-content: center;
   padding: 0rem;
-  overflow-y: visible;
+  overflow-y: auto;
   align-items: left; /* Align items to the left */
   text-align: left;
   max-width: 75vw;
