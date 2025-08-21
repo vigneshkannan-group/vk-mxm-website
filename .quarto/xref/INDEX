@@ -124,5 +124,8 @@
   },
   "resources/team-data/engineer/hakim-gharbi.qmd": {
     "hakim-gharbi.html": "f5fb2e78"
+  },
+  "facilities.qmd": {
+    "facilities.html": "6bd01e2d"
   }
 }

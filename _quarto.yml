@@ -26,6 +26,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: facilities.qmd
+        text: The Laboratory
       - href: teaching.qmd
         text: Teaching
       - href: news.qmd
