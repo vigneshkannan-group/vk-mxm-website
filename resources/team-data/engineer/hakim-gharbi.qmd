@@ -1,0 +1,24 @@
+:::{.team-card}
+![](resources/images/headshots/hakim.jpg)
+
+:::{.team-info}
+
+### Hakim Gharbi
+<span class="smallfont">(Engineer at the Laboratoire de Mecanique des Solides)</span>
+
+#### Research: <span class="smallfont">Development of experimental devices for mechanics research</span>
+
+####
+<span class="smallfont">
+M.S., Sensor and Measurement Techniques, ESPCI/Paris VI, France
+</span>
+
+####
+<span class="smallfont"><i class="fas fa-envelope"></i> [hakim.gharbi@polytechnique.edu](mailto:hakim.gharbi@polytechnique.edu) </span> 
+<span class="smallfont"><i class="fas fa-phone"></i> [+41 44 632 63 76](tel:+33169335774) </span> <br>
+<i class="fas fa-map-marker-alt"></i><span class="smallfont"> 
+Pole Mecanique (Building 104; Office 104.20.151) <br>
+Avenue Becquerel, 91120 Palaiseau, France
+
+:::
+:::

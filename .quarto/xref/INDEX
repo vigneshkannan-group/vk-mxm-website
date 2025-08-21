@@ -121,5 +121,8 @@
   },
   "resources/positions/2025-08-22-postdoc.qmd": {
     "2025-08-22-postdoc.html": "fba1e6a1"
+  },
+  "resources/team-data/engineer/hakim-gharbi.qmd": {
+    "hakim-gharbi.html": "f5fb2e78"
   }
 }

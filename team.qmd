@@ -30,6 +30,14 @@ format:
 
 :::
 
+## Engineering staff
+
+::: {.team-container}
+
+{{< include resources/team-data/engineer/hakim-gharbi.qmd >}}
+
+:::
+
 ## Masters students
 
 ::: {.teamstud-container}
