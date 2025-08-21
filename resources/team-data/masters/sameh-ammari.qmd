@@ -4,7 +4,7 @@
 :::{.team-info}
 ### Sameh Ammari
 
-#### Research: <span class="smallfont">Miniature compression Kolsky bars</span>
+#### Research: <span class="smallfont">Rate-dependent behavior of shape memory alloys</span>
 
 ####
 <span style="font-size: smaller;font-weight: 100">
@@ -18,7 +18,7 @@
 </span><br>
 
 <i class="fas fa-map-marker-alt"></i><span style="font-size: smaller;font-weight: 100"> 
-Pole Mecanique (Building# 104)
+Pole Mecanique (Building 104)
 </span>
 
 :::

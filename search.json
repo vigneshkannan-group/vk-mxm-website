@@ -28,11 +28,18 @@
     "text": "Post-doctoral scientists"
   },
   {
+    "objectID": "team.html#engineering-staff",
+    "href": "team.html#engineering-staff",
+    "title": "The Team",
+    "section": "Engineering staff",
+    "text": "Engineering staff\n\n\n\n\nHakim Gharbi\n(Engineer at the Laboratoire de Mecanique des Solides)\n\nResearch: Development of experimental devices for mechanics research\n\n\n\n M.S., Sensor and Measurement Techniques, ESPCI/Paris VI, France \n\n\n\n hakim.gharbi@polytechnique.edu   +41 44 632 63 76    Pole Mecanique (Building 104; Office 104.20.151)  Avenue Becquerel, 91120 Palaiseau, France"
+  },
+  {
     "objectID": "team.html#masters-students",
     "href": "team.html#masters-students",
     "title": "The Team",
     "section": "Masters students",
-    "text": "Masters students\n\n\n\n\nSameh Ammari\n\nResearch: Miniature compression Kolsky bars\n\n\n\n B.S., Ecole Polytechnique, France  M.S., Ecole Polytechnique, France \n\n\n\n sameh.ammari@polytechnique.edu \n Pole Mecanique (Building# 104) \n\n\n\n\n\n\nJoao Moreira Lopes\n\nResearch: Multi-axial torsional kolsky bars\n\n\n\n B.S., Universidade Federal do Rio Grande, Brazil  M.S., ENSTA-IP Paris, France \n\n\n\n joao.moreira@ensta.fr \n Pole Mecanique (Building# 104)"
+    "text": "Masters students\n\n\n\n\nSameh Ammari\n\nResearch: Rate-dependent behavior of shape memory alloys\n\n\n\n B.S., Ecole Polytechnique, France  M.S., Ecole Polytechnique, France \n\n\n\n sameh.ammari@polytechnique.edu \n Pole Mecanique (Building 104) \n\n\n\n\n\n\nJoao Moreira Lopes\n\nResearch: Multi-axial torsional kolsky bars\n\n\n\n B.S., Universidade Federal do Rio Grande, Brazil  M.S., ENSTA-IP Paris, France \n\n\n\n joao.moreira@ensta.fr \n Pole Mecanique (Building 104)"
   },
   {
     "objectID": "team.html#undergraduate-students",
@@ -74,126 +81,70 @@
     "href": "resources/team-data/masters/sameh-ammari.html",
     "title": "Mechanics and Materials under Extremes",
     "section": "",
-    "text": "Sameh Ammari\n\nResearch: Miniature compression Kolsky bars\n\n\n\n B.S., Ecole Polytechnique, France  M.S., Ecole Polytechnique, France \n\n\n\n sameh.ammari@polytechnique.edu \n Pole Mecanique (Building# 104)"
+    "text": "Sameh Ammari\n\nResearch: Rate-dependent behavior of shape memory alloys\n\n\n\n B.S., Ecole Polytechnique, France  M.S., Ecole Polytechnique, France \n\n\n\n sameh.ammari@polytechnique.edu \n Pole Mecanique (Building 104)"
   },
   {
-    "objectID": "resources/team-data/alum-list.html",
-    "href": "resources/team-data/alum-list.html",
+    "objectID": "resources/team-data/engineer/hakim-gharbi.html",
+    "href": "resources/team-data/engineer/hakim-gharbi.html",
     "title": "Mechanics and Materials under Extremes",
     "section": "",
-    "text": "Tamar Tsikarishvili (B.S. 2025) – (currently) Nordic masters program in Maritime Engineering"
+    "text": "Hakim Gharbi\n(Engineer at the Laboratoire de Mecanique des Solides)\n\nResearch: Development of experimental devices for mechanics research\n\n\n\n M.S., Sensor and Measurement Techniques, ESPCI/Paris VI, France \n\n\n\n hakim.gharbi@polytechnique.edu   +41 44 632 63 76    Pole Mecanique (Building 104; Office 104.20.151)  Avenue Becquerel, 91120 Palaiseau, France"
   },
   {
-    "objectID": "resources/research/mult-ferro.html",
-    "href": "resources/research/mult-ferro.html",
+    "objectID": "resources/research/phase-sma.html",
+    "href": "resources/research/phase-sma.html",
     "title": "Mechanics and Materials under Extremes",
     "section": "",
-    "text": "Ferroelectrics are a class of electro-active materials, ubiquitous across a wide range of technological applications e.g., energy harvesting, sensors & transducers, nano-electronics and active structures. At the core of these multi-functional applications is the coupling between electrical, mechanical and thermal fields. Microscopically, this manifests as the heterogeneous evolution of volume defects called “domains”, separated by planar defects called “domain walls”. Our efforts focus on understanding these dissipative kinetics, their effects on electro-mechanical switching and dynamic viscolelasticity in ferroelectric ceramics and crystals.\nCollaborators: Prof. Dennis M. Kochmann (ETH), Prof. Morgan Trassin (ETH), Dr. Claire Griesbach (ETH)"
+    "text": "I am developing a new program at the LMS to investigate the kinetics of phase transformations in a wide range of shape memory alloys (SMAs) under large multi-axial stress states and very short time scales. Development of dynamic, high-resolution experiments with multi-physical coupling is ongoing in the lab – with a lot of excitement! We eventually hope to discover the mechanisms behind such complex dynamic phenomena – one direction towards our broad goal of discovering micromechanics of defects under extreme conditions.\nCollaborators: Prof. Suraj Ravindran (U. Minnesota)"
   },
   {
-    "objectID": "resources/research/exp-mech.html",
-    "href": "resources/research/exp-mech.html",
+    "objectID": "resources/research/mag-plast.html",
+    "href": "resources/research/mag-plast.html",
     "title": "Mechanics and Materials under Extremes",
     "section": "",
-    "text": "We are excited by scientific problems that require us to push the limits of quantitative measurements across length and time scales. We develop specialized experiments for mechanics and multi-physics problems at short time scales. Examples involve miniature Kolsky bars (high strain rate impact), high-speed optical microscopy and interferometry, multi-scale electro-mechanical test beds, and pump-probe acoustic spectroscopy. Current and future directions will extend these capabilities to study transient material response under complex stress states with multi-physical coupling."
+    "text": "With a density two-thirds that of aluminium, magnesium is currently sought after as the next-generation light-weight structural metal for a technology-driven, energy-sustainable future. Naturally, many applications of these materials require them to be resilient under impact loading conditions such as, in car crashes, military applications and space exploration. However, the mechanisms of plastic deformation and failure are non-intuitive at time scales on the order of micro-seconds and less. My doctoral research focused on understanding the fundamental mechanisms governing the strength of magnesium and it’s alloys.\nCollaborators: Prof. K. T. Ramesh (JHU - PhD advisor), Dr. Meng Zhao (JHU), Dr. Debjoy Mallick (US Army Research Labs), Prof. Todd Hufnagel (JHU), Dr. Andrew Leong (JHU)"
   },
   {
-    "objectID": "resources/positions/2025-08-22-postdoc.html",
-    "href": "resources/positions/2025-08-22-postdoc.html",
+    "objectID": "resources/research/arch-wave.html",
+    "href": "resources/research/arch-wave.html",
     "title": "Mechanics and Materials under Extremes",
     "section": "",
-    "text": "Post-doctoral scientist position\nWe are looking for a motivated and passionate post-doctoral scientist in the area of experimental mechanics and dynamic behavior of materials. You will lead an effort to study phase transformations under multi-axial stress states across a wide range of strain rates – spanning quasi-static to high-strain-rate dynamic loading conditions. This will involve the development of multi-axial quasi-static, and dynamic compression-tension-torsion experiments towards the discovery of phase transformation kinetics.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: September 26, 2025"
+    "text": "Architected materials are materials whose properties are designed at a fundamental unit cell length scale, and governed by the arrangement of these unit cells. We are interested in a specific class of such materials whose elastic wave dispersion characteristics may be designed through complex architectures at microscopic length scales. However, the ability to fabricate such materials, and measure their broadband acoustic dispersion characteristics are non-trivial, requiring significant development. We have broken new ground in the fabrication of dense architectures at the micrometer scales, and are now attempting to push the limits of understanding and controlling wave-guiding behavior through multi-scale design and characterization tools developed in house.\nCollaborators: Prof. Charles Dorn (U. Washington at Seattle), Prof. Dennis M. Kochmann (ETH Zurich)"
   },
   {
-    "objectID": "resources/positions/2024-11-03-phd.html",
-    "href": "resources/positions/2024-11-03-phd.html",
+    "objectID": "resources/positions/2025-08-22-phd.html",
+    "href": "resources/positions/2025-08-22-phd.html",
     "title": "Mechanics and Materials under Extremes",
     "section": "",
-    "text": "PhD position\nWe are looking for a motivated and passionate doctoral candidate in the area of experimental mechanics and dynamic behavior of materials. The PhD thesis will focus on dynamic phase transformations under large mechanical stresses and coupled multiphysical fields. The student will develop dynamic impact experiments, multi-physical test benches and high-speed instrumentation towards the discovery of phase transformation kinetics at short time scales.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached."
+    "text": "PhD position\nWe are looking for a motivated and passionate doctoral candidate in the area of experimental mechanics and dynamic behavior of materials. The PhD thesis will focus on dynamic phase transformations under large mechanical stresses and coupled multiphysical fields. The student will develop dynamic impact experiments, multi-physical test benches and high-speed instrumentation towards the discovery of phase transformation kinetics at short time scales.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: October 17, 2025"
   },
   {
-    "objectID": "resources/news/2025-05-21-gasgun.html",
-    "href": "resources/news/2025-05-21-gasgun.html",
-    "title": "Our first miniature gas gun",
+    "objectID": "resources/news/2025-06-30-team.html",
+    "href": "resources/news/2025-06-30-team.html",
+    "title": "Our first team picture",
     "section": "",
-    "text": "We are excited for the development of our first miniature Kolsky bar experiments, with the manufacture of our first gas gun for miniature dynamic compression fresh out of the LMS machine shop! Stay tuned for future updates.\n\n\n\n\n\nOur first miniature gas gun"
+    "text": "We took a first picture of our small team of budding experimental scientists. Sameh (on the right) is doing his master’s thesis on miniature dynamic experiments. Next to him is yours truly, who has the pleasure of mentoring this team. Then we have Tamar, our recent graduate, who just completed her undergraduate work on a design for dynamic torsional experiments. Joao, our recent master’s intern, is taking Tamar’s design towards a working prototype.\n\n\n\n\n\nOur first small team"
   },
   {
-    "objectID": "resources/news/2025-03-10-sameh.html",
-    "href": "resources/news/2025-03-10-sameh.html",
-    "title": "Sameh starts his master thesis",
+    "objectID": "resources/news/2025-03-24-tamar.html",
+    "href": "resources/news/2025-03-24-tamar.html",
+    "title": "Tamar completes her Bachelor thesis",
     "section": "",
-    "text": "We welcome back Sameh Ammari who will be spending the next six months developing precision miniature dynamic impact experiments in the group. Great to have you back Sameh!"
+    "text": "Congratulations to Tamar Tsikarishvili on completing her Bachelor Thesis defence! Tamar spent 10 weeks working on a new design for a dynamic shear experiment (a Torsional Kolsky bar). She performed admirably, and passed her defense with flying colors. Tamar is now exploring new waters literally! She is about to start a Nordic masters program in Maritime Engineering. While we are sad to see her go, we wish her great success in her future endeavors!"
   },
   {
-    "objectID": "resources/news/2024-08-07-hiring.html",
-    "href": "resources/news/2024-08-07-hiring.html",
-    "title": "We are hiring!",
+    "objectID": "resources/news/2025-01-10-tamar.html",
+    "href": "resources/news/2025-01-10-tamar.html",
+    "title": "Tamar joins the team",
     "section": "",
-    "text": "The team is growing! We are looking for a passionate experimentalist to join our team as a doctoral student.\nThe project will focus on studying impact-induced phase transformations in shape memory alloys using high-speed, high resolution experimental techniques. The successful candidate will work at the interface of experimental mechanics, dynamic behavior of materials, and materials science. Does this excite you? If yes, we are excited to talk to you, too! Details about submitting your application can be found at the Open positions page."
+    "text": "Tamar Tsikarishvili has started her bachelor’s thesis with us. She will be developing designs for miniature dynamic experiments under multi-axial stresses. All the best, Tamar!"
   },
   {
-    "objectID": "resources/news/2024-01-01.html",
-    "href": "resources/news/2024-01-01.html",
-    "title": "To new beginnings…",
+    "objectID": "resources/news/2024-07-12-anr.html",
+    "href": "resources/news/2024-07-12-anr.html",
+    "title": "Our first grant award!",
     "section": "",
-    "text": "I have moved to the Ecole Polytechnique to begin my career as an Assistant Professor of Mechanics. My research group will explore the areas of dynamic behavior of materials. Stay tuned for updates on the status of our research, and the evolution of the lab and research group. While my time in Switzerland was special and will be dearly missed, I will still be visiting the ETH to continue some of our work on elastic waves in microarchitected metamaterials.\n\n\n\n\ncourtesy: Ecole Polytechnique"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News and Events",
-    "section": "",
-    "text": "Our first team picture\n\n\n\n\n\n30 06 2025\n\n\nA first picture of our young, budding experimentalists.\n\n\n\n\n\n\n\n\n\n\n\n\nOur first miniature gas gun\n\n\n\n\n\n21 05 2025\n\n\nOur first gas gun for miniature Kolsky bar experiments is here!\n\n\n\n\n\n\n\n\n\n\n\n\nTamar completes her Bachelor thesis\n\n\n\n\n\n24 03 2025\n\n\nCongratulations to Tamar on a successful defense of her Bachelor thesis!\n\n\n\n\n\n\n\n\n\n\n\n\nSameh starts his master thesis\n\n\n\n\n\n10 03 2025\n\n\nSameh Ammari starts his six-month M2 masters thesis in the team.\n\n\n\n\n\n\n\n\n\n\n\n\nTamar joins the team\n\n\n\n\n\n10 01 2025\n\n\nTamar Tsikarishvili joins the team to start her Bachelor thesis.\n\n\n\n\n\n\n\n\n\n\n\n\nWe are hiring!\n\n\n\n\n\n07 08 2024\n\n\nWe are looking for a motivated and passionate doctoral student to join our team\n\n\n\n\n\n\n\n\n\n\n\n\nOur first grant award!\n\n\n\n\n\n12 07 2024\n\n\nWe have been awarded our first grant by the ANR to study impact-induced phase transformations!\n\n\n\n\n\n\n\n\n\n\n\n\nTo new beginnings…\n\n\n\n\n\n01 01 2024\n\n\nI am moving to the Ecole Polytechnique in Palaiseau, France…\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mechanics and Materials under Extremes",
-    "section": "",
-    "text": "Mechanics and Materials under Extremes  We study materials under extreme conditions of stress, multi-physical fields, and at short time scales.\n\n\n\n\n\nExperimental mechanics across extreme conditions  We develop specialized experiments motivated by the discovery of micromechanisms governing material response across length and time scales\n\n\n\n\n\nMulti-scale mechanics of structural metals  How do metals behave under large strain rates and pressures? What are the fundamental mechanisms governing this response?\n\n\n\n\n\nMultiphysical coupling in ferroelectric materials  We explore the origins of polarization switching and viscoelastic coupling in ferroelectric crystals at the meso length scales.\n\n\n\n\n\nMicroscale metamaterials for elastic wave guiding  Can we design, fabricate and characterize elastic wave guides with control over orders of magnitude in length scale?"
-  },
-  {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "Mechanics and Materials under Extremes",
-    "section": "",
-    "text": "Welcome! We are a growing team of undergraduate and graduate students, post-doctoral scientists and engineers, who study materials and structures under extreme conditions of stress, strain rate and multi-physical fields, at short time scales, within the Solid Mechanics Laboratory (LMS), Department of Mechanics at the Ecole Polytechnique in France.\nOur primary tools of choice to study these problems are experimental. We use mechanical design, electronic and optical instrumentation to push the cutting edge of studying materials and structures down to time scales of nanoseconds, and length scales from the macroscopic down to micrometers.\nOur experiments allow us to “see” the wondrous complexity of nature, but to comprehend this complexity we need models. We enjoy working with mathematical modelers to help understand complex phenomena, and hope to become amateur modelers some day! ​​​We hope you have fun reading about our work, and learn something in the process. If you would like to work with our team, know more about us, or teach us something more, please feel free to reach out. We are always looking for new perspectives to our way of thinking! Find out who we are!\nTo follow our most recent updates follow our News and Events page."
-  },
-  {
-    "objectID": "index.html#recent-updates",
-    "href": "index.html#recent-updates",
-    "title": "Mechanics and Materials under Extremes",
-    "section": "Recent updates",
-    "text": "Recent updates\n\nWe are hiring! Further details in the Open positions page."
-  },
-  {
-    "objectID": "positions.html",
-    "href": "positions.html",
-    "title": "Open positions",
-    "section": "",
-    "text": "Our team is growing! We have two open positions to be filled as soon as possible. Details below…\n\n \n\n\n\n\nWe are looking for a motivated and passionate post-doctoral scientist in the area of experimental mechanics and dynamic behavior of materials. You will lead an effort to study phase transformations under multi-axial stress states across a wide range of strain rates – spanning quasi-static to high-strain-rate dynamic loading conditions. This will involve the development of multi-axial quasi-static, and dynamic compression-tension-torsion experiments towards the discovery of phase transformation kinetics.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: September 26, 2025\n\n\n\n\n\n\n\n\n\nWe are looking for a motivated and passionate doctoral candidate in the area of experimental mechanics and dynamic behavior of materials. The PhD thesis will focus on dynamic phase transformations under large mechanical stresses and coupled multiphysical fields. The student will develop dynamic impact experiments, multi-physical test benches and high-speed instrumentation towards the discovery of phase transformation kinetics at short time scales.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: October 17, 2025\n\n\n\n\n\n\n\n\n\nApart from open calls for funded positions, we are always excited to discuss potential doctoral/post-doctoral positions through fellowships. Also, as a growing lab there are always positions for master and undergraduate students to contribute to our team. Please do not hesitate to reach out at vignesh.kannan@polytechnique.edu if you are interested in working with us."
-  },
-  {
-    "objectID": "positions.html#we-are-hiring",
-    "href": "positions.html#we-are-hiring",
-    "title": "Open positions",
-    "section": "",
-    "text": "Our team is growing! We have two open positions to be filled as soon as possible. Details below…\n\n \n\n\n\n\nWe are looking for a motivated and passionate post-doctoral scientist in the area of experimental mechanics and dynamic behavior of materials. You will lead an effort to study phase transformations under multi-axial stress states across a wide range of strain rates – spanning quasi-static to high-strain-rate dynamic loading conditions. This will involve the development of multi-axial quasi-static, and dynamic compression-tension-torsion experiments towards the discovery of phase transformation kinetics.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: September 26, 2025\n\n\n\n\n\n\n\n\n\nWe are looking for a motivated and passionate doctoral candidate in the area of experimental mechanics and dynamic behavior of materials. The PhD thesis will focus on dynamic phase transformations under large mechanical stresses and coupled multiphysical fields. The student will develop dynamic impact experiments, multi-physical test benches and high-speed instrumentation towards the discovery of phase transformation kinetics at short time scales.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: October 17, 2025"
-  },
-  {
-    "objectID": "positions.html#section",
-    "href": "positions.html#section",
-    "title": "Open positions",
-    "section": "",
-    "text": "Apart from open calls for funded positions, we are always excited to discuss potential doctoral/post-doctoral positions through fellowships. Also, as a growing lab there are always positions for master and undergraduate students to contribute to our team. Please do not hesitate to reach out at vignesh.kannan@polytechnique.edu if you are interested in working with us."
+    "text": "We have been awarded a four-year grant by the French National Research Agency (ANR) to study impact-induced phase transformations in magnetic shape memory alloys! Over the next four years we will be investigating the mechanisms behind such phase transformations at short time scales down to nanoseconds, using very exciting in-house experimental methods. I am absolutely delighted, more so because this is my first successful grant application. Looking forward to some very exciting science. I will be soon be hiring new doctoral/post-doctoral researchers. Stay tuned for updates…"
   },
   {
     "objectID": "research.html",
@@ -238,67 +189,130 @@
     "text": "With a density two-thirds that of aluminium, magnesium is currently sought after as the next-generation light-weight structural metal for a technology-driven, energy-sustainable future. Naturally, many applications of these materials require them to be resilient under impact loading conditions such as, in car crashes, military applications and space exploration. However, the mechanisms of plastic deformation and failure are non-intuitive at time scales on the order of micro-seconds and less. My doctoral research focused on understanding the fundamental mechanisms governing the strength of magnesium and it’s alloys.\nCollaborators: Prof. K. T. Ramesh (JHU - PhD advisor), Dr. Meng Zhao (JHU), Dr. Debjoy Mallick (US Army Research Labs), Prof. Todd Hufnagel (JHU), Dr. Andrew Leong (JHU)"
   },
   {
-    "objectID": "resources/news/2024-07-12-anr.html",
-    "href": "resources/news/2024-07-12-anr.html",
-    "title": "Our first grant award!",
+    "objectID": "positions.html",
+    "href": "positions.html",
+    "title": "Open positions",
     "section": "",
-    "text": "We have been awarded a four-year grant by the French National Research Agency (ANR) to study impact-induced phase transformations in magnetic shape memory alloys! Over the next four years we will be investigating the mechanisms behind such phase transformations at short time scales down to nanoseconds, using very exciting in-house experimental methods. I am absolutely delighted, more so because this is my first successful grant application. Looking forward to some very exciting science. I will be soon be hiring new doctoral/post-doctoral researchers. Stay tuned for updates…"
+    "text": "Our team is growing! We have two open positions to be filled as soon as possible. Details below…\n\n \n\n\n\n\nWe are looking for a motivated and passionate post-doctoral scientist in the area of experimental mechanics and dynamic behavior of materials. You will lead an effort to study phase transformations under multi-axial stress states across a wide range of strain rates – spanning quasi-static to high-strain-rate dynamic loading conditions. This will involve the development of multi-axial quasi-static, and dynamic compression-tension-torsion experiments towards the discovery of phase transformation kinetics.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: September 26, 2025\n\n\n\n\n\n\n\n\n\nWe are looking for a motivated and passionate doctoral candidate in the area of experimental mechanics and dynamic behavior of materials. The PhD thesis will focus on dynamic phase transformations under large mechanical stresses and coupled multiphysical fields. The student will develop dynamic impact experiments, multi-physical test benches and high-speed instrumentation towards the discovery of phase transformation kinetics at short time scales.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: October 17, 2025\n\n\n\n\n\n\n\n\n\nApart from open calls for funded positions, we are always excited to discuss potential doctoral/post-doctoral positions through fellowships. Also, as a growing lab there are always positions for master and undergraduate students to contribute to our team. Please do not hesitate to reach out at vignesh.kannan@polytechnique.edu if you are interested in working with us."
   },
   {
-    "objectID": "resources/news/2025-01-10-tamar.html",
-    "href": "resources/news/2025-01-10-tamar.html",
-    "title": "Tamar joins the team",
+    "objectID": "positions.html#we-are-hiring",
+    "href": "positions.html#we-are-hiring",
+    "title": "Open positions",
     "section": "",
-    "text": "Tamar Tsikarishvili has started her bachelor’s thesis with us. She will be developing designs for miniature dynamic experiments under multi-axial stresses. All the best, Tamar!"
+    "text": "Our team is growing! We have two open positions to be filled as soon as possible. Details below…\n\n \n\n\n\n\nWe are looking for a motivated and passionate post-doctoral scientist in the area of experimental mechanics and dynamic behavior of materials. You will lead an effort to study phase transformations under multi-axial stress states across a wide range of strain rates – spanning quasi-static to high-strain-rate dynamic loading conditions. This will involve the development of multi-axial quasi-static, and dynamic compression-tension-torsion experiments towards the discovery of phase transformation kinetics.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: September 26, 2025\n\n\n\n\n\n\n\n\n\nWe are looking for a motivated and passionate doctoral candidate in the area of experimental mechanics and dynamic behavior of materials. The PhD thesis will focus on dynamic phase transformations under large mechanical stresses and coupled multiphysical fields. The student will develop dynamic impact experiments, multi-physical test benches and high-speed instrumentation towards the discovery of phase transformation kinetics at short time scales.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: October 17, 2025"
   },
   {
-    "objectID": "resources/news/2025-03-24-tamar.html",
-    "href": "resources/news/2025-03-24-tamar.html",
-    "title": "Tamar completes her Bachelor thesis",
+    "objectID": "positions.html#section",
+    "href": "positions.html#section",
+    "title": "Open positions",
     "section": "",
-    "text": "Congratulations to Tamar Tsikarishvili on completing her Bachelor Thesis defence! Tamar spent 10 weeks working on a new design for a dynamic shear experiment (a Torsional Kolsky bar). She performed admirably, and passed her defense with flying colors. Tamar is now exploring new waters literally! She is about to start a Nordic masters program in Maritime Engineering. While we are sad to see her go, we wish her great success in her future endeavors!"
+    "text": "Apart from open calls for funded positions, we are always excited to discuss potential doctoral/post-doctoral positions through fellowships. Also, as a growing lab there are always positions for master and undergraduate students to contribute to our team. Please do not hesitate to reach out at vignesh.kannan@polytechnique.edu if you are interested in working with us."
   },
   {
-    "objectID": "resources/news/2025-06-30-team.html",
-    "href": "resources/news/2025-06-30-team.html",
-    "title": "Our first team picture",
-    "section": "",
-    "text": "We took a first picture of our small team of budding experimental scientists. Sameh (on the right) is doing his master’s thesis on miniature dynamic experiments. Next to him is yours truly, who has the pleasure of mentoring this team. Then we have Tamar, our recent graduate, who just completed her undergraduate work on a design for dynamic torsional experiments. Joao, our recent master’s intern, is taking Tamar’s design towards a working prototype.\n\n\n\n\n\nOur first small team"
-  },
-  {
-    "objectID": "resources/positions/2025-08-22-phd.html",
-    "href": "resources/positions/2025-08-22-phd.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Mechanics and Materials under Extremes",
     "section": "",
-    "text": "PhD position\nWe are looking for a motivated and passionate doctoral candidate in the area of experimental mechanics and dynamic behavior of materials. The PhD thesis will focus on dynamic phase transformations under large mechanical stresses and coupled multiphysical fields. The student will develop dynamic impact experiments, multi-physical test benches and high-speed instrumentation towards the discovery of phase transformation kinetics at short time scales.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: October 17, 2025"
+    "text": "Mechanics and Materials under Extremes  We study materials under extreme conditions of stress, multi-physical fields, and at short time scales.\n\n\n\n\n\nExperimental mechanics across extreme conditions  We develop specialized experiments motivated by the discovery of micromechanisms governing material response across length and time scales\n\n\n\n\n\nMulti-scale mechanics of structural metals  How do metals behave under large strain rates and pressures? What are the fundamental mechanisms governing this response?\n\n\n\n\n\nMultiphysical coupling in ferroelectric materials  We explore the origins of polarization switching and viscoelastic coupling in ferroelectric crystals at the meso length scales.\n\n\n\n\n\nMicroscale metamaterials for elastic wave guiding  Can we design, fabricate and characterize elastic wave guides with control over orders of magnitude in length scale?"
   },
   {
-    "objectID": "resources/research/arch-wave.html",
-    "href": "resources/research/arch-wave.html",
+    "objectID": "index.html#section",
+    "href": "index.html#section",
     "title": "Mechanics and Materials under Extremes",
     "section": "",
-    "text": "Architected materials are materials whose properties are designed at a fundamental unit cell length scale, and governed by the arrangement of these unit cells. We are interested in a specific class of such materials whose elastic wave dispersion characteristics may be designed through complex architectures at microscopic length scales. However, the ability to fabricate such materials, and measure their broadband acoustic dispersion characteristics are non-trivial, requiring significant development. We have broken new ground in the fabrication of dense architectures at the micrometer scales, and are now attempting to push the limits of understanding and controlling wave-guiding behavior through multi-scale design and characterization tools developed in house.\nCollaborators: Prof. Charles Dorn (U. Washington at Seattle), Prof. Dennis M. Kochmann (ETH Zurich)"
+    "text": "Welcome! We are a growing team of undergraduate and graduate students, post-doctoral scientists and engineers, who study materials and structures under extreme conditions of stress, strain rate and multi-physical fields, at short time scales, within the Solid Mechanics Laboratory (LMS), Department of Mechanics at the Ecole Polytechnique in France.\nOur primary tools of choice to study these problems are experimental. We use mechanical design, electronic and optical instrumentation to push the cutting edge of studying materials and structures down to time scales of nanoseconds, and length scales from the macroscopic down to micrometers.\nOur experiments allow us to “see” the wondrous complexity of nature, but to comprehend this complexity we need models. We enjoy working with mathematical modelers to help understand complex phenomena, and hope to become amateur modelers some day! ​​​We hope you have fun reading about our work, and learn something in the process. If you would like to work with our team, know more about us, or teach us something more, please feel free to reach out. We are always looking for new perspectives to our way of thinking! Find out who we are!\nTo follow our most recent updates follow our News and Events page."
   },
   {
-    "objectID": "resources/research/mag-plast.html",
-    "href": "resources/research/mag-plast.html",
+    "objectID": "index.html#recent-updates",
+    "href": "index.html#recent-updates",
     "title": "Mechanics and Materials under Extremes",
-    "section": "",
-    "text": "With a density two-thirds that of aluminium, magnesium is currently sought after as the next-generation light-weight structural metal for a technology-driven, energy-sustainable future. Naturally, many applications of these materials require them to be resilient under impact loading conditions such as, in car crashes, military applications and space exploration. However, the mechanisms of plastic deformation and failure are non-intuitive at time scales on the order of micro-seconds and less. My doctoral research focused on understanding the fundamental mechanisms governing the strength of magnesium and it’s alloys.\nCollaborators: Prof. K. T. Ramesh (JHU - PhD advisor), Dr. Meng Zhao (JHU), Dr. Debjoy Mallick (US Army Research Labs), Prof. Todd Hufnagel (JHU), Dr. Andrew Leong (JHU)"
+    "section": "Recent updates",
+    "text": "Recent updates\n\nWe are hiring! Further details in the Open positions page."
   },
   {
-    "objectID": "resources/research/phase-sma.html",
-    "href": "resources/research/phase-sma.html",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News and Events",
+    "section": "",
+    "text": "Our first team picture\n\n\n\n\n\n30 06 2025\n\n\nA first picture of our young, budding experimentalists.\n\n\n\n\n\n\n\n\n\n\n\n\nOur first miniature gas gun\n\n\n\n\n\n21 05 2025\n\n\nOur first gas gun for miniature Kolsky bar experiments is here!\n\n\n\n\n\n\n\n\n\n\n\n\nTamar completes her Bachelor thesis\n\n\n\n\n\n24 03 2025\n\n\nCongratulations to Tamar on a successful defense of her Bachelor thesis!\n\n\n\n\n\n\n\n\n\n\n\n\nSameh starts his master thesis\n\n\n\n\n\n10 03 2025\n\n\nSameh Ammari starts his six-month M2 masters thesis in the team.\n\n\n\n\n\n\n\n\n\n\n\n\nTamar joins the team\n\n\n\n\n\n10 01 2025\n\n\nTamar Tsikarishvili joins the team to start her Bachelor thesis.\n\n\n\n\n\n\n\n\n\n\n\n\nWe are hiring!\n\n\n\n\n\n07 08 2024\n\n\nWe are looking for a motivated and passionate doctoral student to join our team\n\n\n\n\n\n\n\n\n\n\n\n\nOur first grant award!\n\n\n\n\n\n12 07 2024\n\n\nWe have been awarded our first grant by the ANR to study impact-induced phase transformations!\n\n\n\n\n\n\n\n\n\n\n\n\nTo new beginnings…\n\n\n\n\n\n01 01 2024\n\n\nI am moving to the Ecole Polytechnique in Palaiseau, France…\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "resources/news/2024-01-01.html",
+    "href": "resources/news/2024-01-01.html",
+    "title": "To new beginnings…",
+    "section": "",
+    "text": "I have moved to the Ecole Polytechnique to begin my career as an Assistant Professor of Mechanics. My research group will explore the areas of dynamic behavior of materials. Stay tuned for updates on the status of our research, and the evolution of the lab and research group. While my time in Switzerland was special and will be dearly missed, I will still be visiting the ETH to continue some of our work on elastic waves in microarchitected metamaterials.\n\n\n\n\ncourtesy: Ecole Polytechnique"
+  },
+  {
+    "objectID": "resources/news/2024-08-07-hiring.html",
+    "href": "resources/news/2024-08-07-hiring.html",
+    "title": "We are hiring!",
+    "section": "",
+    "text": "The team is growing! We are looking for a passionate experimentalist to join our team as a doctoral student.\nThe project will focus on studying impact-induced phase transformations in shape memory alloys using high-speed, high resolution experimental techniques. The successful candidate will work at the interface of experimental mechanics, dynamic behavior of materials, and materials science. Does this excite you? If yes, we are excited to talk to you, too! Details about submitting your application can be found at the Open positions page."
+  },
+  {
+    "objectID": "resources/news/2025-03-10-sameh.html",
+    "href": "resources/news/2025-03-10-sameh.html",
+    "title": "Sameh starts his master thesis",
+    "section": "",
+    "text": "We welcome back Sameh Ammari who will be spending the next six months developing precision miniature dynamic impact experiments in the group. Great to have you back Sameh!"
+  },
+  {
+    "objectID": "resources/news/2025-05-21-gasgun.html",
+    "href": "resources/news/2025-05-21-gasgun.html",
+    "title": "Our first miniature gas gun",
+    "section": "",
+    "text": "We are excited for the development of our first miniature Kolsky bar experiments, with the manufacture of our first gas gun for miniature dynamic compression fresh out of the LMS machine shop! Stay tuned for future updates.\n\n\n\n\n\nOur first miniature gas gun"
+  },
+  {
+    "objectID": "resources/positions/2024-11-03-phd.html",
+    "href": "resources/positions/2024-11-03-phd.html",
     "title": "Mechanics and Materials under Extremes",
     "section": "",
-    "text": "I am developing a new program at the LMS to investigate the kinetics of phase transformations in a wide range of shape memory alloys (SMAs) under large multi-axial stress states and very short time scales. Development of dynamic, high-resolution experiments with multi-physical coupling is ongoing in the lab – with a lot of excitement! We eventually hope to discover the mechanisms behind such complex dynamic phenomena – one direction towards our broad goal of discovering micromechanics of defects under extreme conditions.\nCollaborators: Prof. Suraj Ravindran (U. Minnesota)"
+    "text": "PhD position\nWe are looking for a motivated and passionate doctoral candidate in the area of experimental mechanics and dynamic behavior of materials. The PhD thesis will focus on dynamic phase transformations under large mechanical stresses and coupled multiphysical fields. The student will develop dynamic impact experiments, multi-physical test benches and high-speed instrumentation towards the discovery of phase transformation kinetics at short time scales.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached."
+  },
+  {
+    "objectID": "resources/positions/2025-08-22-postdoc.html",
+    "href": "resources/positions/2025-08-22-postdoc.html",
+    "title": "Mechanics and Materials under Extremes",
+    "section": "",
+    "text": "Post-doctoral scientist position\nWe are looking for a motivated and passionate post-doctoral scientist in the area of experimental mechanics and dynamic behavior of materials. You will lead an effort to study phase transformations under multi-axial stress states across a wide range of strain rates – spanning quasi-static to high-strain-rate dynamic loading conditions. This will involve the development of multi-axial quasi-static, and dynamic compression-tension-torsion experiments towards the discovery of phase transformation kinetics.\nDoes this excite you? Then please do apply! In case of questions, please feel free to contact me at vignesh.kannan@polytechnique.edu.\nComplete application details can be found in the pdf attached -&gt;\nApplication deadline: September 26, 2025"
+  },
+  {
+    "objectID": "resources/research/exp-mech.html",
+    "href": "resources/research/exp-mech.html",
+    "title": "Mechanics and Materials under Extremes",
+    "section": "",
+    "text": "We are excited by scientific problems that require us to push the limits of quantitative measurements across length and time scales. We develop specialized experiments for mechanics and multi-physics problems at short time scales. Examples involve miniature Kolsky bars (high strain rate impact), high-speed optical microscopy and interferometry, multi-scale electro-mechanical test beds, and pump-probe acoustic spectroscopy. Current and future directions will extend these capabilities to study transient material response under complex stress states with multi-physical coupling."
+  },
+  {
+    "objectID": "resources/research/mult-ferro.html",
+    "href": "resources/research/mult-ferro.html",
+    "title": "Mechanics and Materials under Extremes",
+    "section": "",
+    "text": "Ferroelectrics are a class of electro-active materials, ubiquitous across a wide range of technological applications e.g., energy harvesting, sensors & transducers, nano-electronics and active structures. At the core of these multi-functional applications is the coupling between electrical, mechanical and thermal fields. Microscopically, this manifests as the heterogeneous evolution of volume defects called “domains”, separated by planar defects called “domain walls”. Our efforts focus on understanding these dissipative kinetics, their effects on electro-mechanical switching and dynamic viscolelasticity in ferroelectric ceramics and crystals.\nCollaborators: Prof. Dennis M. Kochmann (ETH), Prof. Morgan Trassin (ETH), Dr. Claire Griesbach (ETH)"
+  },
+  {
+    "objectID": "resources/team-data/alum-list.html",
+    "href": "resources/team-data/alum-list.html",
+    "title": "Mechanics and Materials under Extremes",
+    "section": "",
+    "text": "Tamar Tsikarishvili (B.S. 2025) – (currently) Nordic masters program in Maritime Engineering"
   },
   {
     "objectID": "resources/team-data/masters/joao-lopes.html",
     "href": "resources/team-data/masters/joao-lopes.html",
     "title": "Mechanics and Materials under Extremes",
     "section": "",
-    "text": "Joao Moreira Lopes\n\nResearch: Multi-axial torsional kolsky bars\n\n\n\n B.S., Universidade Federal do Rio Grande, Brazil  M.S., ENSTA-IP Paris, France \n\n\n\n joao.moreira@ensta.fr \n Pole Mecanique (Building# 104)"
+    "text": "Joao Moreira Lopes\n\nResearch: Multi-axial torsional kolsky bars\n\n\n\n B.S., Universidade Federal do Rio Grande, Brazil  M.S., ENSTA-IP Paris, France \n\n\n\n joao.moreira@ensta.fr \n Pole Mecanique (Building 104)"
   },
   {
     "objectID": "resources/team-data/phd/mathieu-brodmann.html",

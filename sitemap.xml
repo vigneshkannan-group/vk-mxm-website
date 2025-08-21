@@ -2,118 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://example.com/team.html</loc>
-    <lastmod>2025-08-14T07:58:46.570Z</lastmod>
+    <lastmod>2025-08-21T14:43:06.339Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/resources/team-data/vignesh-kannan/vignesh-kannan.html</loc>
-    <lastmod>2025-08-14T07:58:46.569Z</lastmod>
+    <lastmod>2025-08-13T12:47:17.305Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/resources/team-data/ugrad/tamar-tsikarishvili.html</loc>
-    <lastmod>2025-08-14T07:58:46.567Z</lastmod>
+    <lastmod>2025-08-13T12:09:15.003Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/resources/team-data/masters/sameh-ammari.html</loc>
-    <lastmod>2025-08-14T07:58:46.566Z</lastmod>
+    <lastmod>2025-08-21T14:46:23.890Z</lastmod>
   </url>
   <url>
-    <loc>https://example.com/resources/team-data/alum-list.html</loc>
-    <lastmod>2025-08-14T07:58:46.566Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/research/mult-ferro.html</loc>
-    <lastmod>2025-08-14T07:58:46.565Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/research/exp-mech.html</loc>
-    <lastmod>2025-08-14T07:58:46.565Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/positions/2025-08-22-postdoc.html</loc>
-    <lastmod>2025-08-14T07:58:45.574Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/positions/2024-11-03-phd.html</loc>
-    <lastmod>2025-08-14T07:58:45.574Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/news/2025-05-21-gasgun.html</loc>
-    <lastmod>2025-08-14T07:58:45.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/news/2025-03-10-sameh.html</loc>
-    <lastmod>2025-08-14T07:58:45.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/news/2024-08-07-hiring.html</loc>
-    <lastmod>2025-08-14T07:58:45.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/news/2024-01-01.html</loc>
-    <lastmod>2025-08-14T07:58:45.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/publications.html</loc>
-    <lastmod>2025-08-14T07:58:45.525Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/news.html</loc>
-    <lastmod>2025-08-14T07:58:45.525Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/index.html</loc>
-    <lastmod>2025-08-14T07:58:45.525Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/positions.html</loc>
-    <lastmod>2025-08-14T07:58:45.525Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/research.html</loc>
-    <lastmod>2025-08-14T07:58:45.525Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/news/2024-07-12-anr.html</loc>
-    <lastmod>2025-08-14T07:58:45.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/news/2025-01-10-tamar.html</loc>
-    <lastmod>2025-08-14T07:58:45.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/news/2025-03-24-tamar.html</loc>
-    <lastmod>2025-08-14T07:58:45.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/news/2025-06-30-team.html</loc>
-    <lastmod>2025-08-14T07:58:45.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/positions/2025-08-22-phd.html</loc>
-    <lastmod>2025-08-14T07:58:45.574Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/research/arch-wave.html</loc>
-    <lastmod>2025-08-14T07:58:46.531Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/resources/research/mag-plast.html</loc>
-    <lastmod>2025-08-14T07:58:46.565Z</lastmod>
+    <loc>https://example.com/resources/team-data/engineer/hakim-gharbi.html</loc>
+    <lastmod>2025-08-21T14:43:52.042Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/resources/research/phase-sma.html</loc>
-    <lastmod>2025-08-14T07:58:46.566Z</lastmod>
+    <lastmod>2025-08-13T12:09:15.001Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/research/mag-plast.html</loc>
+    <lastmod>2025-08-13T12:09:15.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/research/arch-wave.html</loc>
+    <lastmod>2025-08-13T12:09:14.881Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/positions/2025-08-22-phd.html</loc>
+    <lastmod>2025-08-13T12:09:14.713Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/news/2025-06-30-team.html</loc>
+    <lastmod>2025-08-13T12:09:14.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/news/2025-03-24-tamar.html</loc>
+    <lastmod>2025-08-13T12:09:14.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/news/2025-01-10-tamar.html</loc>
+    <lastmod>2025-08-13T12:09:14.707Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/news/2024-07-12-anr.html</loc>
+    <lastmod>2025-08-13T12:09:14.707Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/research.html</loc>
+    <lastmod>2025-08-13T12:09:14.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/positions.html</loc>
+    <lastmod>2025-08-14T07:57:23.695Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/index.html</loc>
+    <lastmod>2025-08-14T07:53:46.742Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/news.html</loc>
+    <lastmod>2025-08-13T12:09:14.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/publications.html</loc>
+    <lastmod>2025-08-13T12:09:14.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/news/2024-01-01.html</loc>
+    <lastmod>2025-08-13T12:09:14.707Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/news/2024-08-07-hiring.html</loc>
+    <lastmod>2025-08-13T12:09:14.707Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/news/2025-03-10-sameh.html</loc>
+    <lastmod>2025-08-13T12:09:14.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/news/2025-05-21-gasgun.html</loc>
+    <lastmod>2025-08-13T12:09:14.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/positions/2024-11-03-phd.html</loc>
+    <lastmod>2025-08-13T12:09:14.713Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/positions/2025-08-22-postdoc.html</loc>
+    <lastmod>2025-08-13T12:09:14.713Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/research/exp-mech.html</loc>
+    <lastmod>2025-08-13T12:09:14.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/research/mult-ferro.html</loc>
+    <lastmod>2025-08-13T12:09:15.001Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/resources/team-data/alum-list.html</loc>
+    <lastmod>2025-08-13T12:09:15.002Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/resources/team-data/masters/joao-lopes.html</loc>
-    <lastmod>2025-08-14T07:58:46.566Z</lastmod>
+    <lastmod>2025-08-21T14:46:30.921Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/resources/team-data/phd/mathieu-brodmann.html</loc>
-    <lastmod>2025-08-14T07:58:46.567Z</lastmod>
+    <lastmod>2025-08-13T12:09:15.002Z</lastmod>
   </url>
   <url>
     <loc>https://example.com/teaching.html</loc>
-    <lastmod>2025-08-14T07:58:46.570Z</lastmod>
+    <lastmod>2025-08-13T12:09:15.007Z</lastmod>
   </url>
 </urlset>
