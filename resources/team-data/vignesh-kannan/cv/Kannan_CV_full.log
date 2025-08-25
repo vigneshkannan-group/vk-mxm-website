@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  13 JAN 2025 18:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  25 AUG 2025 09:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -444,36 +444,48 @@ Package enumitem Warning: Negative labelwidth. This does not make much
 Package enumitem Warning: Negative labelwidth. This does not make much
 (enumitem)                sense, on input line 145.
 
-Excluding 'comment' comment.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 192.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 192.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 192.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
+(Font)              using `OT1/cmr/m/it' instead on input line 150.
 
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 195.
+(enumitem)                sense, on input line 153.
 
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 201.
+(enumitem)                sense, on input line 158.
 
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 211.
+(enumitem)                sense, on input line 171.
+
+Excluding 'comment' comment.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 219.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 219.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 219.
 
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 221.
+(enumitem)                sense, on input line 222.
 
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 237.
+(enumitem)                sense, on input line 228.
+
+
+Package enumitem Warning: Negative labelwidth. This does not make much
+(enumitem)                sense, on input line 238.
+
+
+Package enumitem Warning: Negative labelwidth. This does not make much
+(enumitem)                sense, on input line 248.
 
 [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }]
@@ -483,23 +495,19 @@ Package enumitem Warning: Negative labelwidth. This does not make much
 
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 271.
-
-
-Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 279.
-
-
-Package enumitem Warning: Negative labelwidth. This does not make much
 (enumitem)                sense, on input line 291.
 
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 297.
+(enumitem)                sense, on input line 298.
 
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 317.
+(enumitem)                sense, on input line 306.
+
+
+Package enumitem Warning: Negative labelwidth. This does not make much
+(enumitem)                sense, on input line 318.
 
 [3]
 
@@ -507,26 +515,22 @@ Package enumitem Warning: Negative labelwidth. This does not make much
 (enumitem)                sense, on input line 324.
 
 
-LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
-(Font)              using `OT1/cmr/m/it' instead on input line 332.
+Package enumitem Warning: Negative labelwidth. This does not make much
+(enumitem)                sense, on input line 344.
 
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 335.
+(enumitem)                sense, on input line 351.
 
 
-Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 348.
-
-
-Overfull \hbox (8.47923pt too wide) in paragraph at lines 356--357
+Overfull \hbox (8.47923pt too wide) in paragraph at lines 361--362
 []\OT1/cmr/m/n/10 Bastian Tel-gen, \OT1/cmr/bx/n/10 Vi-g-nesh Kan-nan\OT1/cmr/m
 /n/10 , Jean-Charles Bail, Charles D. Dorn, Han-nah Niese \OT1/cmr/m/it/10 & \O
 T1/cmr/m/n/10 Den-nis M. Kochmann,
  []
 
 
-Overfull \hbox (13.257pt too wide) in paragraph at lines 360--361
+Overfull \hbox (13.257pt too wide) in paragraph at lines 365--366
 []\OT1/cmr/bx/n/10 Vignesh Kan-nan\OT1/cmr/m/n/10 , Xi-ao-long Ma, Nicholas M. 
 Kry-wo-pusk, Las-zlo J. Kecskes, Tim-o-thy P. Weihs \OT1/cmr/m/it/10 & \OT1/cmr
 /m/n/10 K. T. Ramesh,
@@ -535,11 +539,15 @@ Kry-wo-pusk, Las-zlo J. Kecskes, Tim-o-thy P. Weihs \OT1/cmr/m/it/10 & \OT1/cmr
 [4]
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 369.
+(enumitem)                sense, on input line 374.
+
+
+Package enumitem Warning: Negative labelwidth. This does not make much
+(enumitem)                sense, on input line 382.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
-(Font)              using `OT1/cmr/m/it' instead on input line 385.
+(Font)              using `OT1/cmr/m/it' instead on input line 396.
 
 [5] Excluding 'comment' comment. [6]
 
@@ -555,7 +563,7 @@ Here is how much of TeX's memory you used:
  30423 multiletter control sequences out of 15000+600000
  517907 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,581b,651s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,558b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 , replaced by a fixed one
@@ -576,7 +584,7 @@ exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
 xlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/tex
 live/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texli
 ve/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
-Output written on Kannan_CV_full.pdf (6 pages, 187453 bytes).
+Output written on Kannan_CV_full.pdf (6 pages, 188438 bytes).
 PDF statistics:
  195 PDF objects out of 1000 (max. 8388607)
  151 compressed objects within 2 object streams
