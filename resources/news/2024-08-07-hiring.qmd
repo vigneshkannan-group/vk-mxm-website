@@ -3,7 +3,7 @@ title: "We are hiring!"
 synopsis: "We are looking for a motivated and passionate doctoral student to join our team"
 image: "images/00title.jpg"
 date: 2024-08-07
-categories: [team]
+categories: [the team]
 format: 
   html:
     theme: ../../vigilab.scss
