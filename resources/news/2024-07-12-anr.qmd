@@ -3,7 +3,7 @@ title: "Our first grant award!"
 synopsis: "We have been awarded our first grant by the ANR to study impact-induced phase transformations!"
 image: "images/00title.jpg"
 date: 2024-07-12
-categories: [grant]
+categories: [grant award]
 format: 
   html:
     theme: ../../vigilab.scss

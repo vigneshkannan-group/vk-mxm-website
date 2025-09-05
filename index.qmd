@@ -65,5 +65,6 @@ To follow our most recent updates follow our [News and Events](news.qmd) page.
 
 ## Recent updates
 * **We are hiring!** Further details in the [Open positions](positions.qmd) page.
+* We have been awarded an [European Research Council (ERC) Starting grant](resources/news/2025-09-05-erc-announcement.qmd)!
 
 :::

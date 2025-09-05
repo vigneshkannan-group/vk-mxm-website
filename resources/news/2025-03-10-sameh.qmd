@@ -3,7 +3,7 @@ title: "Sameh starts his master thesis"
 synopsis: "Sameh Ammari starts his six-month M2 masters thesis in the team."
 image: "../images/headshots/sameh.jpeg"
 date: 2025-03-10
-categories: [team]
+categories: [the team]
 format: 
   html:
     theme: ../../vigilab.scss
