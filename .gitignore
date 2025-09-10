@@ -7,3 +7,5 @@ _site/
 *.psd
 
 /.quarto/
+
+/.luarc.json

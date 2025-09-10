@@ -1,10 +1,32 @@
 ---
 title: "Publications"
 toc: false
+bibliography: resources/publications.bib
+csl: resources/my-style.csl
+link-citations: true
+nocite: |
+  @*
 format: 
   html:
     theme: vigilab.scss
     css: styles/publications.css
+    lua-filters:
+      - resources/bold-author.lua
 ---
+<p style= "margin: 3vw 0;
+  margin-top: 1rem;
+  margin-left: 3vw;
+  margin-right: 10vw;
+  font-size: 1rem; 
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #05014a;
+  text-align: center;"> 
+  *We try to keep this page updated as regularly as possible, although we might slip up at times. Feel free to refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=ntDAO2oAAAAJ) page if you would like a complete list of publications.</p>
 
-About this site
+::: {#refs}
+
+
+
+:::
+
+
