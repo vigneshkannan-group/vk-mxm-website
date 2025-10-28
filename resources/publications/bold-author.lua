@@ -1,7 +1,7 @@
 -- bold-author.lua
 -- Bold a specific author in all bibliography entries after rendering
 
-local my_name = "Kannan, V"  -- exactly as in your BibTeX
+local my_name = "Kannan, V."  -- exactly as in your BibTeX
 
 -- recursive function to process all inlines
 function bold_name(inlines)

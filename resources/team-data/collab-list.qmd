@@ -1,0 +1,8 @@
+::: {.custom-margin}
+
+* Prof. [Suraj Ravindran](https://cse.umn.edu/aem/suraj-ravindran), University of Minnesota, U.S.A.
+* Prof. [Eric Charkaluk](https://ericcharkaluk.wordpress.com/), CNRS & Solid Mechanics Lab (LMS), Ecole Polytechnique
+* Prof. [Charles Jacob Dorn](https://www.charlesjdorn.com/), University of Washington at Seattle, U.S.A.
+* Prof. [Dennis M. Kochmann](https://imes.ethz.ch/the-institute/people/prof-dr-dennis-kochmann.html), ETH Zurich, Switzerland
+
+:::

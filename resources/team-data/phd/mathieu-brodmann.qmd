@@ -3,15 +3,14 @@
 
 :::{.team-info}
 
-### Mathieu Brodmann
-<span class="smallfont">(ETH Zurich, co-advised with Prof. Dennis M. Kochmann)</span>
+### Mathieu Brodmann <span class="smallfont">(ETH Zurich, co-advised with Prof. Dennis M. Kochmann)</span>
 
 #### Research: <span class="smallfont">In-situ measurement of domain wall kinetics in ferroelectric crystals</span>
 
 ####
 <span class="smallfont">
-M.S., ETH Zurich, Switzerland<br>
-B.S., ETH Zurich, Switzerland
+B.S., ETH Zurich, Switzerland<br>
+M.S., ETH Zurich, Switzerland
 </span>
 
 ####
