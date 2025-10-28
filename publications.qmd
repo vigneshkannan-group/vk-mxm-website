@@ -1,8 +1,8 @@
 ---
 title: "Publications"
 toc: false
-bibliography: resources/publications.bib
-csl: resources/my-style.csl
+bibliography: resources/publications/publications.bib
+csl: resources/publications/my-style.csl
 group-by: year
 link-citations: true
 nocite: |
@@ -11,8 +11,10 @@ format:
   html:
     theme: vigilab.scss
     css: styles/publications.css
-    lua-filters:
-      - resources/bold-author.lua
+    filters:
+      - quarto
+      - resources/publications/bold-author.lua
+      - resources/publications/filter-by-year.lua
 ---
 <p style= "margin: 3vw 0;
   margin-top: 1rem;

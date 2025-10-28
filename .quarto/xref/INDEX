@@ -130,5 +130,11 @@
   },
   "resources/news/2025-09-05-erc-announcement.qmd": {
     "2025-09-05-erc-announcement.html": "682708d4"
+  },
+  "resources/team-data/phd/sameh-ammari.qmd": {
+    "sameh-ammari.html": "2634dcce"
+  },
+  "resources/team-data/collab-list.qmd": {
+    "collab-list.html": "7c4c0658"
   }
 }

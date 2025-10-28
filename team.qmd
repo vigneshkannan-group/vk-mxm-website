@@ -12,6 +12,7 @@ format:
 ::: {.team-container}
 
 {{< include resources/team-data/vignesh-kannan/vignesh-kannan.qmd >}}
+<br>
 
 :::
 
@@ -20,6 +21,9 @@ format:
 ::: {.team-container}
 
 {{< include resources/team-data/phd/mathieu-brodmann.qmd >}}
+<br>
+
+{{< include resources/team-data/phd/sameh-ammari.qmd >}}
 
 :::
 
@@ -48,9 +52,6 @@ We also receive fabulous support from our engineering team at the LMS. If you ar
 
 ::: {.teamstud-container}
 
-{{< include resources/team-data/masters/sameh-ammari.qmd >}}
-{{< include resources/team-data/masters/joao-lopes.qmd >}}
-
 :::
 
 ## Undergraduate students
@@ -62,4 +63,4 @@ We also receive fabulous support from our engineering team at the LMS. If you ar
 
 ## Collaborators
 
- 
+{{< include resources/team-data/collab-list.qmd >}}

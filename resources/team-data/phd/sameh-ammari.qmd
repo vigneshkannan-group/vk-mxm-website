@@ -1,0 +1,24 @@
+::: {.team-card}
+  ![](resources/images/headshots/sameh.jpeg)
+
+:::{.team-info}
+
+### Sameh Ammari
+
+#### Research: <span class="smallfont">Dynamic behavior of shape memory alloys</span>
+
+####
+<span style="font-size: smaller;font-weight: 100">
+  B.S., Ecole Polytechnique, France <br> 
+  M.S., Ecole Polytechnique, France
+</span><br>
+
+####
+<span class="smallfont"><i class="fas fa-envelope"></i> [sameh.ammari@polytechnique.edu](mailto:sameh.ammari@polytechnique.edu) </span> 
+<span class="smallfont"><i class="fas fa-phone"></i> [](tel:) </span> <br>
+<i class="fas fa-map-marker-alt"></i><span class="smallfont"> 
+Pole Mecanique (Building 104), Office - 104.20.216 <br>
+Avenue Becquerel, 91120 Palaiseau</span>
+
+:::
+:::
