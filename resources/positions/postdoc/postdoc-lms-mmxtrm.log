@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  3 NOV 2025 08:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  3 NOV 2025 08:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -970,12 +970,12 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 <logos/lxipparis_off.png, id=47, 540.3387pt x 187.6611pt>
 File: logos/lxipparis_off.png Graphic file (type png)
 <use logos/lxipparis_off.png>
-Package pdftex.def Info: logos/lxipparis_off.png  used on input line 143.
+Package pdftex.def Info: logos/lxipparis_off.png  used on input line 141.
 (pdftex.def)             Requested size: 146.73235pt x 50.96124pt.
 <logos/lms.png, id=49, 403.0257pt x 331.7193pt>
 File: logos/lms.png Graphic file (type png)
 <use logos/lms.png>
-Package pdftex.def Info: logos/lms.png  used on input line 143.
+Package pdftex.def Info: logos/lms.png  used on input line 141.
 (pdftex.def)             Requested size: 48.91327pt x 40.25508pt.
 
 

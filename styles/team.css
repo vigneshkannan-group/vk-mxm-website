@@ -119,7 +119,7 @@ body::before {
 }
 
 .team-card img {
-  aspect-ratio: 1;
+  aspect-ratio: 1 !important;
   height: 30vh;
   object-fit: cover; /* Ensures the image covers the card without distortion */
   display: block;
@@ -335,35 +335,30 @@ h3, h4 {
   .team-card {
     flex-direction: column;
     height: auto;
-    align-items: center; /* center content in column layout */
-    align-content: center;
-    text-align: center;
+    align-items: left; /* center content in column layout */
+    align-content: left;
+    text-align: left;
   }
 
   .team-card img {
     height: 25vh;
     aspect-ratio: 3 / 4; /* Maintain aspect ratio */
     max-width: none;
-    align-items: center;
-    align-content: center;
-    text-align: center;
+    align-items: left;
+    align-content: left;
+    text-align: left;
   }
 
   .team-info {
-    align-items: center; /* center content in column layout */
-    align-content: center;
-    text-align: center;
-    padding: 1rem 1.5rem;
+    align-items: left; 
+    align-content: left;
+    text-align: left;
+    padding: 0rem 0rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
     font-size: 1rem;
     font-weight: normal;
-    line-height: 1.5rem;
-  }
-
-  h3 {
-    text-align: center;
-    font-size: 1.25rem; /* Adjust heading size for smaller screens */
-    margin-top: 0.5rem;
-    margin-bottom: 0.2rem;
+    line-height: 1.75rem;
   }
 }
 
@@ -371,9 +366,9 @@ h3, h4 {
   .teamstud-card {
     flex-direction: column;
     height: auto;
-    align-items: center; /* center content in column layout */
-    align-content: center;
-    text-align: center;
+    align-items: left; /* center content in column layout */
+    align-content: left;
+    text-align: left;
   }
 
   .teamstud-card img {
@@ -394,13 +389,6 @@ h3, h4 {
     font-weight: normal;
     line-height: 1.5rem;
   }
-
-  h3 {
-    text-align: center;
-    font-size: 1.25rem; /* Adjust heading size for smaller screens */
-    margin-top: 0.5rem;
-    margin-bottom: 0.2rem;
-  }
 }
 
 @media (max-width: 1000px) {
@@ -414,12 +402,20 @@ h3, h4 {
     margin-bottom: 2vw;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2 {
     margin-top: 1.5vw;
     margin-bottom: 1.5vw;
     text-align: center;
     align-items: center;
     align-content: center;
+  }
+
+  h3, h4, h5, h6 {
+    margin-top: 1.5vw;
+    margin-bottom: 1.5vw;
+    text-align: left;
+    align-items: left;
+    align-content: left;
   }
 
   p {

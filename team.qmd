@@ -24,7 +24,7 @@ format:
 <br>
 
 {{< include resources/team-data/phd/sameh-ammari.qmd >}}
-
+<br>
 :::
 
 ## Post-doctoral scientists
@@ -39,6 +39,7 @@ format:
 ::: {.team-container}
 
 {{< include resources/team-data/engineer/hakim-gharbi.qmd >}}
+<br>
 
 :::
 
@@ -56,11 +57,17 @@ We also receive fabulous support from our engineering team at the LMS. If you ar
 
 ## Undergraduate students
 
+::: {.teamstud-container}
+
+:::
+
 
 ## Alumni
 
 {{< include resources/team-data/alum-list.qmd >}}
+<br>
 
 ## Collaborators
 
 {{< include resources/team-data/collab-list.qmd >}}
+<br>
