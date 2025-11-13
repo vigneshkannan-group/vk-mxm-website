@@ -136,7 +136,7 @@ body::before {
 }
 
 .team-info h3 {
-  margin-top: 0.5rem;
+  margin-top: 0rem;
   margin-bottom: 0.2rem;
   font-size: 1.25rem;
 }
@@ -331,7 +331,7 @@ h3, h4 {
 }
 
 /* Fine-tune margins for mobile screens */
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
   .team-card {
     flex-direction: column;
     height: auto;
@@ -341,8 +341,8 @@ h3, h4 {
   }
 
   .team-card img {
-    height: 25vh;
-    aspect-ratio: 3 / 4; /* Maintain aspect ratio */
+    height: 25vh !important;
+    aspect-ratio: 1 !important; /* Maintain aspect ratio */
     max-width: none;
     align-items: left;
     align-content: left;
@@ -362,7 +362,7 @@ h3, h4 {
   }
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 1200px) {
   .teamstud-card {
     flex-direction: column;
     height: auto;
@@ -373,7 +373,7 @@ h3, h4 {
 
   .teamstud-card img {
     height: 25vh;
-    aspect-ratio: 3 / 4; /* Maintain aspect ratio */
+    aspect-ratio: 1 / 1 !important; /* Maintain aspect ratio */
     max-width: none;
     align-items: center;
     align-content: center;
@@ -391,7 +391,7 @@ h3, h4 {
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
   body {
     margin-left: 2vw;
     margin-right: 2vw;
