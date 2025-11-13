@@ -11,9 +11,9 @@ format:
   html:
     theme: vigilab.scss
     css: styles/publications.css
+    include-after-body: after-body.html
     filters:
       - quarto
-      - resources/publications/bold-author.lua
       - resources/publications/filter-by-year.lua
 ---
 <p style= "margin: 3vw 0;

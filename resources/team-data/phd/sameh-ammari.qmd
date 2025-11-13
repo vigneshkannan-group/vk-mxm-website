@@ -1,7 +1,7 @@
 ::: {.team-card}
-  ![](resources/images/headshots/sameh.jpeg)
+![](resources/images/headshots/sameh.jpeg)
 
-:::{.team-info}
+::: {.team-info}
 
 ### Sameh Ammari
 
@@ -15,9 +15,9 @@
 
 ####
 <span class="smallfont"><i class="fas fa-envelope"></i> [sameh.ammari@polytechnique.edu](mailto:sameh.ammari@polytechnique.edu) </span> 
-<span class="smallfont"><i class="fas fa-phone"></i> [](tel:) </span> <br> <br>
+<span class="smallfont"><i class="fas fa-phone"></i> [+33 1 69 33 5702](tel:+33169335702) </span> <br> <br>
 <i class="fas fa-map-marker-alt"></i><span class="smallfont"> 
-Pole Mecanique (Building 104), Office - 104.20.216 <br>
+Pole Mecanique (Building 104), Office 104:20-216 <br>
 Avenue Becquerel, 91120 Palaiseau</span>
 
 :::

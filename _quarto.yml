@@ -56,7 +56,9 @@ format:
     link-external-newwindow: true
     date-format: "DD MM YYYY"
     smooth-scroll: true
-    include-after-body: resources/js/carousel.js
+    include-after-body: 
+      - resources/js/carousel.js
+      - after-body.html
 header-includes:
   - <script src="resources/js/carousel.js"></script>
 
