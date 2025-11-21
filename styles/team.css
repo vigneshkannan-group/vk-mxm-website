@@ -109,6 +109,7 @@ body::before {
   width: 100%;
   max-width: 85vw;
   border-radius: 1rem;
+  margin-bottom: 1rem;
   overflow: visible;
   background-color: transparent;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
