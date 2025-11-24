@@ -20,7 +20,7 @@ format:
   font-weight: 800;
   color: #05014a;
   text-align: center;"> 
-  Our team is growing! We have 2 open positions to be filled as soon as possible. Details below...</p> <br> <br>
+  Our team is growing! We have 2 open PhD positions. Details below...</p> <br> <br>
 
 {{< include resources/positions/2025-08-22-phd.qmd >}}
 
