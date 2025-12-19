@@ -74,6 +74,7 @@ body::before {
   background-blend-mode: overlay;
 }
 
+
 /* reference section styling */
 
 #refs {
@@ -84,8 +85,8 @@ body::before {
 
 #refs .csl-entry {
   margin-bottom: 2vh;   /* adjust spacing (e.g. 0.5em, 1em, 2em) */
-  margin-left: 15vw !important;   /* add extra left margin */
-  margin-right: 25vw !important;  /* add extra right margin */
+  margin-left: 10vw !important;   /* add extra left margin */
+  margin-right: 15vw !important;  /* add extra right margin */
   margin-top: 2vh;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: large;
