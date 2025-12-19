@@ -19,12 +19,12 @@ format:
 <p style= "margin: 3vw 0;
   margin-top: 1rem;
   margin-left: 15vw;
-  margin-right: 25vw;
+  margin-right: 15vw;
   font-size: 1rem; 
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #05014a;
   text-align: center;"> 
-  *We try to keep this page updated as regularly as possible. However, we might get caught up doing fun experiments and lose track at times. Feel free to refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=ntDAO2oAAAAJ) page if you would like a complete list of publications.</p>
+  We try to keep this page updated as regularly as possible. However, we might get caught up doing fun experiments, and lose track at times. Feel free to refer to my [Google Scholar](https://scholar.google.com/citations?hl=en&user=ntDAO2oAAAAJ) page if you would like a complete list of publications.</p>
 
 ::: {#refs}
 
