@@ -60,6 +60,18 @@
 <macro name="author">
 <names variable="author">
 <name and="text" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all"/>
+<name>
+<choose>
+      <if name-matches="author" family="Kannan">
+        <name-part name="family" font-weight="bold"/>
+        <name-part name="given" font-weight="bold" prefix=", "/>
+      </if>
+      <else>
+        <name-part name="family"/>
+        <name-part name="given" prefix=", "/>
+      </else>
+    </choose>
+    </name>
 <label form="short" prefix=" (" suffix=")"/>
 <et-al font-style="italic"/>
 <substitute>
@@ -287,15 +299,15 @@
 <bibliography and="text">
 <sort>
 <key variable="issued" sort="descending"/>
-<key macro="author"/>
 <key macro="year-date"/>
+<key macro="author"/>
 <key variable="title"/>
 </sort>
 <layout suffix=".">
 <group delimiter=". ">
 <group delimiter=" ">
+<text macro="year-date" prefix="[" suffix="]"/>
 <text macro="author"/>
-<text macro="year-date" prefix="(" suffix=")"/>
 <group delimiter=", ">
 <text macro="title"/>
 <group delimiter=" ">

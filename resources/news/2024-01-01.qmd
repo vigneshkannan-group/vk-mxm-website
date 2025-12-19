@@ -3,7 +3,8 @@ title: "To new beginnings..."
 synopsis: "I am moving to the Ecole Polytechnique in Palaiseau, France..."
 image: "../images/news/2025-01-01-ecole.jpg"
 date: 2024-01-01
-categories: [news]
+date-format: "dddd, MMMM D, YYYY"
+categories: [general]
 format: 
   html:
     theme: ../../vigilab.scss

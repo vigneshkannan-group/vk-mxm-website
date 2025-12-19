@@ -110,15 +110,6 @@ body::before {
   box-shadow: 0 4px 20vw rgba(0, 0, 0, 0.2); /* Adds shadow on hover */
 }
 
-.positions-card img {
-  flex: 0 0 20vw; /* fixed column for image */
-  aspect-ratio: 4 / 3 !important; /* Maintain aspect ratio */
-  max-width: 25vw;
-  max-height: 30vh;
-  object-fit: cover; /* keep aspect ratio */
-  display: block;
-} 
-
 .positions-info {
   flex: 1 1 400px; /* fill remaining space */
   padding-left: 1rem; /* spacing between img and text */
@@ -129,7 +120,7 @@ body::before {
   color: #05014a;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   margin-left: 0vw;
-  margin-right: auto;
+  margin-right: 10vw;
   text-align: left;
 }
 
@@ -149,20 +140,20 @@ body::before {
 
 /* Switch to column layout for smaller screens */
 @media (max-width: 1000px) {
-  .research-card {
+  .positions-card {
     flex-direction: column;
-    align-items: center; /* centers image + text */
-    text-align: center;  /* centers text */
+    align-items: center; /* center content in column layout */
+    text-align: center;
   }
 
-  .research-card img {
-    max-width: 80%; /* larger image in column view */
-    flex: 0 0 auto; /* remove fixed width */
-    margin-bottom: 1rem; /* space between img and text */
-  }
-
-  .research-info {
-    padding-left: 0; /* no side padding in column mode */
+  .positions-info {
+    margin-left: 0vw;
+    margin-right: 0vw;
+    padding: 1rem 1.5rem;
+    font-size: 1.2rem;
+    font-weight: normal;
+    line-height: 1.5rem;
+    text-align: center;
   }
 }
 

@@ -3,7 +3,8 @@ title: "Our first miniature gas gun"
 synopsis: "Our first gas gun for miniature Kolsky bar experiments is here!"
 image: "images/mini-gas-gun1.jpeg"
 date: 2025-05-21
-categories: [experiments]
+date-format: "dddd, MMMM D, YYYY"
+categories: [laboratory]
 format: 
   html:
     theme: ../../vigilab.scss

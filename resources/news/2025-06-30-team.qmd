@@ -3,7 +3,8 @@ title: "Our first team picture"
 synopsis: "A first picture of our young, budding experimentalists."
 image: "images/group_pic1.jpeg"
 date: 2025-06-30
-categories: [the team]
+date-format: "dddd, MMMM D, YYYY"
+categories: [team]
 format: 
   html:
     theme: ../../vigilab.scss

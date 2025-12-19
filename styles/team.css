@@ -97,8 +97,8 @@ body::before {
   align-items: left; /* Align items to the left */
   text-align: left;
   max-width: 75vw;
-  margin-left: 12vw !important;
-  margin-top: 3rem;
+  margin-left: 10vw !important;
+  margin-top: 5rem;
 }
 
 .team-card {
@@ -109,7 +109,7 @@ body::before {
   width: 100%;
   max-width: 85vw;
   border-radius: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 5rem;
   overflow: visible;
   background-color: transparent;
   transition: transform 0.3s ease, box-shadow 0.3s ease;

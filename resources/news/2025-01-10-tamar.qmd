@@ -3,7 +3,8 @@ title: "Tamar joins the team"
 synopsis: "Tamar Tsikarishvili joins the team to start her Bachelor thesis."
 image: "../images/headshots/tamar.jpg"
 date: 2025-01-10
-categories: [the team]
+date-format: "dddd, MMMM D, YYYY"
+categories: [team]
 format: 
   html:
     theme: ../../vigilab.scss

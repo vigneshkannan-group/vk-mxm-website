@@ -5,7 +5,7 @@ listing:
   type: default
   contents: resources/news
   sort: "date desc"
-  fields: [title, date, synopsis, image]
+  fields: [title, date, synopsis]
   image-align: right
   categories: false
   sort-ui: false
