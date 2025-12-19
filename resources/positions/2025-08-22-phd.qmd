@@ -38,7 +38,7 @@ In case of questions, please feel free to contact me at [vignesh.kannan@polytech
 }
 
 .pdf-frame {
-  width: 75vw;
+  width: 70vw;
   height: 90vh;
   border: none;
 }
