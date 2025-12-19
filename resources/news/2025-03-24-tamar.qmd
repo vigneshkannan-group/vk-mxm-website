@@ -3,7 +3,8 @@ title: "Tamar completes her Bachelor thesis"
 synopsis: "Congratulations to Tamar on a successful defense of her Bachelor thesis!"
 image: "../images/headshots/tamar.jpg"
 date: 2025-03-24
-categories: [the team]
+date-format: "dddd, MMMM D, YYYY"
+categories: [team]
 format: 
   html:
     theme: ../../vigilab.scss

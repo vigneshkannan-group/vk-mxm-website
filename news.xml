@@ -45,7 +45,7 @@
 </section>
 
  ]]></description>
-  <category>grant award</category>
+  <category>research grant</category>
   <guid>https://example.com/resources/news/2025-09-05-erc-announcement.html</guid>
   <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/resources/news/images/erc-multiphasextrm.png" medium="image" type="image/png" height="57" width="144"/>
@@ -76,7 +76,7 @@
 </section>
 
  ]]></description>
-  <category>the team</category>
+  <category>team</category>
   <guid>https://example.com/resources/news/2025-06-30-team.html</guid>
   <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/resources/news/images/group_pic1.jpeg" medium="image" type="image/jpeg"/>
@@ -107,7 +107,7 @@
 </section>
 
  ]]></description>
-  <category>experiments</category>
+  <category>laboratory</category>
   <guid>https://example.com/resources/news/2025-05-21-gasgun.html</guid>
   <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/resources/news/images/mini-gas-gun1.jpeg" medium="image" type="image/jpeg"/>
@@ -130,7 +130,7 @@
 </section>
 
  ]]></description>
-  <category>the team</category>
+  <category>team</category>
   <guid>https://example.com/resources/news/2025-03-24-tamar.html</guid>
   <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/resources/images/headshots/tamar.jpg" medium="image" type="image/jpeg"/>
@@ -153,7 +153,7 @@
 </section>
 
  ]]></description>
-  <category>the team</category>
+  <category>team</category>
   <guid>https://example.com/resources/news/2025-03-10-sameh.html</guid>
   <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/resources/images/headshots/sameh.jpeg" medium="image" type="image/jpeg"/>
@@ -176,7 +176,7 @@
 </section>
 
  ]]></description>
-  <category>the team</category>
+  <category>team</category>
   <guid>https://example.com/resources/news/2025-01-10-tamar.html</guid>
   <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/resources/images/headshots/tamar.jpg" medium="image" type="image/jpeg"/>
@@ -200,7 +200,7 @@
 </section>
 
  ]]></description>
-  <category>the team</category>
+  <category>team</category>
   <guid>https://example.com/resources/news/2024-08-07-hiring.html</guid>
   <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/resources/news/images/00title.jpg" medium="image" type="image/jpeg"/>
@@ -226,7 +226,7 @@
 </section>
 
  ]]></description>
-  <category>grant award</category>
+  <category>research grant</category>
   <guid>https://example.com/resources/news/2024-07-12-anr.html</guid>
   <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/resources/news/images/00title.jpg" medium="image" type="image/jpeg"/>
@@ -257,7 +257,7 @@
 </section>
 
  ]]></description>
-  <category>news</category>
+  <category>general</category>
   <guid>https://example.com/resources/news/2024-01-01.html</guid>
   <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
   <media:content url="https://example.com/resources/images/news/2025-01-01-ecole.jpg" medium="image" type="image/jpeg"/>

@@ -76,9 +76,13 @@ body::before {
 
 /* Custom margin */
 .custom-margin {
-  margin-left: 20vw;
-  margin-right: 20vw;
-  margin-top: 2vh;
+  max-width: 75vw;
+  margin-left: 10vw !important;
+  margin-top: 3rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1.20rem;
+  line-height: 1.75;
+  color: #05014a;
 }
 
 /* Customize section title font sizes */
@@ -150,26 +154,41 @@ h2::after {
   transform: translateX(-50%);
 }
 
-/* news card */
-/* --- Container styling --- */
-.quarto-title-block .quarto-title-meta {
-  margin-left: 20vw;
-  margin-right: 20vw;
-  margin-top: 1vh;
-  text-align: left;
+/* --- Main content --- */
+.quarto-title-block .quarto-title {
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 5vh;
+  text-align: center;
 }
 
 .quarto-title-block .quarto-categories {
   display: flex;
   justify-content: left;
-  margin-left: 20vw;
-  margin-right: 20vw;
-  margin-top: 1vh;
+  margin-left: 0vw;
+  margin-right: 0vw;
+  margin-top: 2vh;
+}
+
+.quarto-title-block p.date {
+  display: flex;
+  justify-content: left;
+  margin-left: 10vw;
+  margin-right: 0vw;
+  margin-top: 2vh;
+}
+
+.quarto-title-block .quarto-title-meta-heading {
+  display: flex;
+  justify-content: left;
+  margin-left: 10vw;
+  margin-right: 0vw;
+  margin-top: 2vh;
 }
 
 .quarto-listing .quarto-listing-container-default {
   display: flex !important;
-  flex-direction: column !important;
+  flex-direction: row !important;
   background: transparent;
   padding: 1rem;
   margin-left: auto;
@@ -186,9 +205,9 @@ h2::after {
 }
 
 /* --- Post layout --- */
-.quarto-listing .quarto-post.image-right {
+.quarto-listing .quarto-post {
   display: flex !important;               /* Kill grid */
-  flex-direction: row !important;         /* Left = text, right = image */
+  flex-direction: column !important;         /* Left = text, right = image */
   align-items: flex-start !important;
   gap: 0.50rem;
   position: relative;
@@ -222,18 +241,18 @@ h2::after {
   order: 1 !important;
   flex-grow: 0 !important;
   flex-shrink: 0 !important;
-  flex-basis: 20% !important;
-  max-width: 20% !important;
-  min-width: 20% !important;
+  flex-basis: 50% !important;
+  max-width: 50% !important;
+  min-width: 50% !important;
 }
 
 .quarto-listing .metadata {
   order: 2 !important;
   flex-grow: 0 !important;
   flex-shrink: 0 !important;
-  flex-basis: 35% !important;
-  max-width: 35% !important;
-  min-width: 35% !important;
+  flex-basis: 90% !important;
+  max-width: 90% !important;
+  min-width: 90% !important;
 }
 
 .quarto-post .thumbnail {

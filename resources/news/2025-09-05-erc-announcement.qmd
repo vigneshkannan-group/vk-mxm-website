@@ -3,7 +3,8 @@ title: "ERC Starting grant award!"
 synopsis: "Our ERC Starting grant award for project MultiPhaseXtrM is now official!"
 image: "images/erc-multiphasextrm.png"
 date: 2025-09-05
-categories: [grant award]
+date-format: "dddd, MMMM D, YYYY"
+categories: [research grant]
 format: 
   html:
     theme: ../../vigilab.scss
