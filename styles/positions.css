@@ -119,8 +119,8 @@ body::before {
   font-weight: bold;
   color: #05014a;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  margin-left: 0vw;
-  margin-right: 10vw;
+  margin-left: 10vw;
+  margin-right: 20vw;
   text-align: left;
 }
 
