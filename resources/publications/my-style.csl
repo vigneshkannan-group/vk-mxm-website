@@ -326,6 +326,7 @@
 <text macro="pages"/>
 </group>
 <text macro="access" prefix=". "/>
+<text variable="note" display="block" font-style="italic"/>
 </layout>
 </bibliography>
 </style>
