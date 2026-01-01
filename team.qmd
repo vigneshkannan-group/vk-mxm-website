@@ -48,7 +48,6 @@ format:
 :::
 
 ::: {.custom-margin}
-
 We also receive fabulous manufacturing support from our engineering team at the LMS. If you are interested in interacting with them, or finding out about the great work they do, you will find them at our [LMS website](https://lms.ip-paris.fr/en/people/technical-and-administrative-support-staff).
 
 :::
