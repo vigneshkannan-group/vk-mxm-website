@@ -1,15 +1,16 @@
 ::: {.team-card}
-![](resources/images/headshots/pholder.jpg)
+![](resources/images/headshots/theo.png)
 
 ::: {.team-info}
 
-### Théodora Daiaa <span class="smallfont">(Engineer at the Laboratoire de Mecanique des Solides)</span>
+### Théodora Daiaa <span class="smallfont">(Instrumentation design engineer, Laboratoire de Mécanique des Solides)</span>
 
 #### Interests: <span class="smallfont">Optical instrumentation for dynamic experiments</span>
 
 ####
 <span class="smallfont">
-...
+Technical training in Photonic systems <br>
+Engineering degree, Photonics and Optronics, Polytech Paris-Saclay 
 </span>
 
 ####

@@ -105,11 +105,11 @@ body::before {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  height: 30vh;
+  height: 28vh;
   width: 100%;
   max-width: 85vw;
   border-radius: 1rem;
-  margin-bottom: 5rem;
+  margin-bottom: 1rem;
   overflow: visible;
   background-color: transparent;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -121,7 +121,7 @@ body::before {
 
 .team-card img {
   aspect-ratio: 1 !important;
-  height: 30vh;
+  height: 25vh;
   object-fit: cover; /* Ensures the image covers the card without distortion */
   display: block;
 }
@@ -339,10 +339,11 @@ h3, h4 {
     align-items: left; /* center content in column layout */
     align-content: left;
     text-align: left;
+    margin-bottom: 0rem !important;
   }
 
   .team-card img {
-    height: 25vh !important;
+    height: 30vh;
     aspect-ratio: 1 !important; /* Maintain aspect ratio */
     max-width: none;
     align-items: left;
