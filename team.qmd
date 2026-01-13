@@ -8,27 +8,22 @@ format:
 ---
 
 ## Principal Investigator
-
 ::: {.team-container}
-
 {{< include resources/team-data/vignesh-kannan/vignesh-kannan.qmd >}}
-<br>
-
 :::
 
 ## PhD students
-
 ::: {.team-container}
-
 {{< include resources/team-data/phd/mathieu-brodmann.qmd >}}
 {{< include resources/team-data/phd/sameh-ammari.qmd >}}
-
 :::
 
 ## Post-doctoral scientists
 
+
 ::: {.team-container}
 
+Coming soon...
 
 :::
 
@@ -48,6 +43,7 @@ We also receive fabulous manufacturing support from our engineering team at the 
 ## Masters students
 
 ::: {.teamstud-container}
+
 
 :::
 

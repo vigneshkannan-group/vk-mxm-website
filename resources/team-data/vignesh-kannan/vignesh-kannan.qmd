@@ -15,7 +15,6 @@ Ph.D., M.S.E., Johns Hopkins University, U.S.A. <br>
 B. Tech., National Institute of Technology, Trichy, India
 </span>
 
-####
 <span class="smallfont"><i class="fas fa-envelope"></i> 
 <a href="mailto:vignesh.kannan@polytechnique.edu">vignesh.kannan@polytechnique.edu</a>
 </span>
@@ -29,7 +28,7 @@ Avenue Becquerel, 91120 Palaiseau, France
 
 ####
 <!-- Footer with links -->
-<div style="display: flex; justify-content: left; gap: 15px; margin-top: 10px;">
+<div style="display: flex; flex-direction: row; justify-content: left; gap: 15px; margin-top: 10px;">
   <!-- CV -->
   <a href="resources/team-data/vignesh-kannan/cv/Kannan_CV_full.pdf" target="_blank" title="CV">
     <img src="resources/images/logos/cv.png" alt="CV" style="width: 30px; height: auto; object-fit: contain">
