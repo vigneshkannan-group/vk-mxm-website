@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  19 DEC 2025 13:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  13 JAN 2026 09:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -963,19 +963,19 @@ LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 1
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 112.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 110.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 <logos/lxipparis_off.png, id=47, 540.3387pt x 187.6611pt>
 File: logos/lxipparis_off.png Graphic file (type png)
 <use logos/lxipparis_off.png>
-Package pdftex.def Info: logos/lxipparis_off.png  used on input line 144.
+Package pdftex.def Info: logos/lxipparis_off.png  used on input line 142.
 (pdftex.def)             Requested size: 146.73235pt x 50.96124pt.
 <logos/lms.png, id=49, 403.0257pt x 331.7193pt>
 File: logos/lms.png Graphic file (type png)
 <use logos/lms.png>
-Package pdftex.def Info: logos/lms.png  used on input line 144.
+Package pdftex.def Info: logos/lms.png  used on input line 142.
 (pdftex.def)             Requested size: 48.91327pt x 40.25508pt.
 
 
@@ -996,9 +996,9 @@ Here is how much of TeX's memory you used:
  63285 multiletter control sequences out of 15000+600000
  532594 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,15n,106p,907b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,15n,106p,1018b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on phd-lms-mmxtrm.pdf (1 page, 599117 bytes).
+Output written on phd-lms-mmxtrm.pdf (1 page, 598877 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream

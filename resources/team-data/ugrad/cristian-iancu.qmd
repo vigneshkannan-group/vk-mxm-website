@@ -1,0 +1,19 @@
+::: {.teamstud-card}
+![](resources/images/headshots/cristian.jpg)
+
+:::{.teamstud-info}
+### Cristian Iancu
+
+#### Research: <span class="smallfont">Miniature dynamic impact experiments</span>
+
+####
+<span style="font-size: smaller;font-weight: 100"><i class="fas fa-envelope"></i> 
+<a href="mailto:cristian.iancu@polytechnique.edu">cristian.iancu@polytechnique.edu</a>
+</span>
+
+<i class="fas fa-map-marker-alt"></i><span style="font-size: smaller;font-weight: 100"> 
+Pole Mecanique (Building 104)
+</span>
+
+:::
+:::

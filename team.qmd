@@ -21,10 +21,7 @@ format:
 ::: {.team-container}
 
 {{< include resources/team-data/phd/mathieu-brodmann.qmd >}}
-<br>
-
 {{< include resources/team-data/phd/sameh-ammari.qmd >}}
-<br>
 
 :::
 
@@ -40,16 +37,12 @@ format:
 ::: {.team-container}
 
 {{< include resources/team-data/engineer/hakim-gharbi.qmd >}}
-<br>
-
 {{< include resources/team-data/engineer/theodora-daiaa.qmd >}}
-<br>
 
 :::
 
 ::: {.custom-margin}
 We also receive fabulous manufacturing support from our engineering team at the LMS. If you are interested in interacting with them, or finding out about the great work they do, you will find them at our [LMS website](https://lms.ip-paris.fr/en/people/technical-and-administrative-support-staff).
-
 :::
 
 ## Masters students
@@ -61,6 +54,11 @@ We also receive fabulous manufacturing support from our engineering team at the 
 ## Undergraduate students
 
 ::: {.teamstud-container}
+
+{{< include resources/team-data/ugrad/cristian-iancu.qmd >}}
+
+{{< include resources/team-data/ugrad/mattheo-chauvancy.qmd >}}
+
 
 :::
 
