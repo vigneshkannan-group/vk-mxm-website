@@ -7,26 +7,62 @@ format:
     css: styles/research.css
 ---
 
-::: {.research-container}
+::: {.column-page}
 
-## Experimental mechanics at the extremes
+::: {.research-card-grid} 
 
-{{< include resources/research/exp-mech.qmd >}}
+:::{.research-card-v2} 
 
-## Dynamic phase transformations in shape memory alloys
+<a href="resources/research/exp-mech.qmd" class="card-link"> 
 
-{{< include resources/research/phase-sma.qmd >}}
+![](resources/research/exp-mech.jpg)
 
-## Wave propagation in microarchitected materials
+#### Experimental mechanics at the extremes </a> 
 
-{{< include resources/research/arch-wave.qmd >}}
+::: 
 
-## Mechanics and multi-physical coupling in ferroelectric materials
+:::{.research-card-v2} 
 
-{{< include resources/research/mult-ferro.qmd >}}
+<a href="resources/research/phase-sma.qmd" class="card-link"> 
 
-## Plasticity and failure in magnesium alloys at high rates
+![](resources/research/phase-sma.jpg) 
 
-{{< include resources/research/mag-plast.qmd >}}
+#### Dynamic phase transformations </a> 
+
+::: 
+
+:::{.research-card-v2} 
+
+<a href="resources/research/arch-wave.qmd" class="card-link"> 
+
+![](resources/research/arch-wave.jpg) 
+
+#### Wave propagation in microarchitected materials </a> 
+
+::: 
+
+:::{.research-card-v2} 
+
+<a href="resources/research/mult-ferro.qmd" class="card-link"> 
+
+![](resources/research/mult-ferro.jpg) 
+
+#### Mechanics and multi-physical coupling in ferroelectric materials </a> 
+
+::: 
+
+:::{.research-card-v2} 
+
+<a href="resources/research/mag-plast.qmd" class="card-link"> 
+
+![](resources/research/mag-plast.jpg) 
+
+#### Plasticity and failure at high rates 
+
+</a> 
+
+::: 
+
+:::
 
 :::
