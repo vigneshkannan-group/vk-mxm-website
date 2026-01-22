@@ -24,8 +24,6 @@ If you are interested in following the progress of the project, stay tuned. I wi
 * [News article from Polytechnique](https://www.polytechnique.edu/en/news/four-new-erc-starting-grants-awarded-lx-laboratories)       
 * [News article from IP Paris](https://www.ip-paris.fr/en/news/four-researchers-institut-polytechnique-de-paris-awarded-erc-starting-grants?trk=feed-detail_main-feed-card_feed-article-content)
 
-:::{.center}
-![ERC Starting grant Project MultiPhaseXtrM](images/erc-multiphasextrm.png){width=100%}
-:::
+![ERC Starting grant Project MultiPhaseXtrM](images/erc-multiphasextrm.png)
 
 :::

@@ -9,7 +9,7 @@
 <link>https://example.com/news.html</link>
 <atom:link href="https://example.com/news.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.8.26</generator>
+<generator>quarto-1.8.27</generator>
 <lastBuildDate>Fri, 05 Sep 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>ERC Starting grant award!</title>
@@ -31,13 +31,11 @@
 </li>
 <li><a href="https://www.ip-paris.fr/en/news/four-researchers-institut-polytechnique-de-paris-awarded-erc-starting-grants?trk=feed-detail_main-feed-card_feed-article-content">News article from IP Paris</a></li>
 </ul>
-<div class="center">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://example.com/resources/news/images/erc-multiphasextrm.png" class="img-fluid figure-img" style="width:100.0%"></p>
+<p><img src="https://example.com/resources/news/images/erc-multiphasextrm.png" class="img-fluid figure-img"></p>
 <figcaption>ERC Starting grant Project MultiPhaseXtrM</figcaption>
 </figure>
-</div>
 </div>
 </div>
 

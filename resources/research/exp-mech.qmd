@@ -1,14 +1,13 @@
-:::{.research-card}
+:::{.custom-margin-research}
 
-![](resources/research/exp-mech.jpg)
-
-
-:::{.research-info}
+### Experimental mechanics at the extremes
 
 We are excited by scientific problems that require us to push the limits of quantitative measurements across length and time scales. We develop specialized experiments for mechanics and multi-physics problems at short time scales. Examples involve miniature Kolsky bars (high strain rate impact), high-speed optical microscopy and interferometry, multi-scale electro-mechanical test beds, and pump-probe acoustic spectroscopy. Current and future directions will extend these capabilities to study transient material response under complex stress states with multi-physical coupling. 
 
+![](exp-mech.jpg)
+
 :::
-:::
+
 
 
 
