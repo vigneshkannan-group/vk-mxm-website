@@ -17,7 +17,7 @@ In case of questions, please feel free to contact me at [vignesh.kannan@polytech
   color: #05014a;
   text-align: left;
   font-weight: bold"> 
-  Application deadline (extended): February 15, 2026 </p><br>
+  Application deadline (extended): February 27, 2026 </p><br>
 
 <div class="pdf-container">
   <iframe
