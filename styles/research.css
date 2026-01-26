@@ -214,6 +214,13 @@ body::before {
     margin-bottom: 1rem; /* space between img and text */
   }
 
+  .research-card-v2 img {
+    aspect-ratio: 4 / 3 !important;
+    max-width: 80%; /* larger image in column view */
+    flex: 0 0 auto; /* remove fixed width */
+    margin-bottom: 1rem; /* space between img and text */
+  }
+
   .research-info {
     padding-left: 0; /* no side padding in column mode */
   }
