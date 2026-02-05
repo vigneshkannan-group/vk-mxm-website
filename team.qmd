@@ -31,8 +31,8 @@ Coming soon...
 
 ::: {.team-container}
 
-{{< include resources/team-data/engineer/hakim-gharbi.qmd >}}
 {{< include resources/team-data/engineer/theodora-daiaa.qmd >}}
+{{< include resources/team-data/engineer/hakim-gharbi.qmd >}}
 
 :::
 
