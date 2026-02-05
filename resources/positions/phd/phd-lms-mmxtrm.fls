@@ -1384,11 +1384,3 @@ INPUT logos/lms.png
 INPUT ./logos/lms.png
 INPUT ./logos/lms.png
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
-INPUT phd-lms-mmxtrm.aux
-INPUT ./phd-lms-mmxtrm.out
-INPUT ./phd-lms-mmxtrm.out
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
