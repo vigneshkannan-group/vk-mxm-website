@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -51,14 +51,13 @@ div.csl-indent {
 <link href="./resources/images/logos/VigiLab_shrt.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-14ec4e39d1d180a5a4951f0afa75a938.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-010ec5e528ec1afcb0c8cd8ff69bbe4b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -103,8 +102,7 @@ div.csl-indent {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./resources/images/logos/VigiLab_shrt.png" alt="" class="navbar-logo light-content">
-    <img src="./resources/images/logos/VigiLab_shrt.png" alt="" class="navbar-logo dark-content">
+    <img src="./resources/images/logos/VigiLab_shrt.png" alt="" class="navbar-logo">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Mechanics &amp; Materials<br>under Extremes</span>
@@ -182,19 +180,9 @@ div.csl-indent {
 </header>
 
 
-<p style="margin: 3vw 0;
-  margin-top: 1rem;
-  margin-left: 25vw;
-  margin-right: 35vw;
-  font-size: 1.05rem; 
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: #05014a;
-  text-align: center;">
-We try to keep this page updated as regularly as possible. However, we might get caught up doing fun experiments, and lose track at times. Feel free to refer to my <a href="https://scholar.google.com/citations?hl=en&amp;user=ntDAO2oAAAAJ">Google Scholar</a> page if you would like a complete list of publications.
-</p>
 <div id="refs" class="references csl-bib-body" role="list">
 <div id="ref-Bronstein2025" class="csl-entry" role="listitem">
-[2025] E. Bronstein, D. Ilssar, V. Kannan, and D. M. Kochmann <span>“Silicon-based microscale multistable metamaterials: Microfabrication and characterization,”</span> <em>Experimental Mechanics</em> [Preprint]. <a href="https://doi.org/10.1007/s11340-025-01258-y">https://doi.org/10.1007/s11340-025-01258-y</a>.
+[2025] Emil Bronstein, Dotan Ilssar, Vignesh Kannan, and Dennis M. Kochmann <span>“Silicon-based microscale multistable metamaterials: Microfabrication and characterization,”</span> <em>Experimental Mechanics</em> [Preprint]. <a href="https://doi.org/10.1007/s11340-025-01258-y">https://doi.org/10.1007/s11340-025-01258-y</a>.
 </div>
 <div id="ref-dorn-kannan-graded-2025" class="csl-entry" role="listitem">
 [2025] Charles Dorn*, Vignesh Kannan*, Ute Drechsler, and Dennis M. Kochmann <span>“Graded phononic metamaterials: Scalable design meets scalable microfabrication.”</span> arXiv (under review). <a href="https://doi.org/10.48550/arxiv.2507.01874">https://doi.org/10.48550/arxiv.2507.01874</a><div class="csl-block"><em>*authors with equal contribution</em>.</div>
@@ -329,14 +317,13 @@ We try to keep this page updated as regularly as possible. However, we might get
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

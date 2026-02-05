@@ -162,32 +162,21 @@ h2::after {
 }
 
 /* Fine-tune margins for mobile screens */
-@media (max-width: 1000px) {
-  .team-card {
-    flex-direction: column;
-    height: auto;
-    align-items: center; /* center content in column layout */
-    align-content: center;
-    text-align: center;
+@media (max-width: 1500px) {
+
+  #refs {
+    margin-top: 2vh;
+    text-align: left; /* optional: make it look neat */
+    background-color: transparent !important;
   }
 
-  .team-card img {
-    height: 25vh;
-    aspect-ratio: 3 / 4; /* Maintain aspect ratio */
-    max-width: none;
-    align-items: center;
-    align-content: center;
-    text-align: center;
-  }
-
-  .team-info {
-    align-items: center; /* center content in column layout */
-    align-content: center;
-    text-align: center;
-    padding: 1rem 1.5rem;
-    font-size: 1rem;
-    font-weight: normal;
-    line-height: 1.5rem;
+  #refs .csl-entry {
+    margin-bottom: 2vh;   /* adjust spacing (e.g. 0.5em, 1em, 2em) */
+    margin-left: 5vw !important;   /* add extra left margin */
+    margin-right: 5vw !important;  /* add extra right margin */
+    margin-top: 2vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
   }
 
   h3 {
