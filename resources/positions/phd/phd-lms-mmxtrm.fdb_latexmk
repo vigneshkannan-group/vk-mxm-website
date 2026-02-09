@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1769160878 "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/02ResearchOrganization/00group/02website/resources/positions/phd/phd-lms-mmxtrm.tex" "phd-lms-mmxtrm.pdf" "phd-lms-mmxtrm" 1769160881 0
-  "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/02ResearchOrganization/00group/02website/resources/positions/phd/phd-lms-mmxtrm.tex" 1769160878 6977 10596edc313b891c731b95deee4b0dba ""
+["pdflatex"] 1770637434 "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/02ResearchOrganization/00group/02website/resources/positions/phd/phd-lms-mmxtrm.tex" "phd-lms-mmxtrm.pdf" "phd-lms-mmxtrm" 1770637436 0
+  "/Users/kannan/Library/CloudStorage/Dropbox/Kannan/02ResearchOrganization/00group/02website/resources/positions/phd/phd-lms-mmxtrm.tex" 1770637433 7000 53d160b5ed520fc7bade9ec40e65f847 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -255,9 +255,9 @@
   "format/defs.tex" 1755086954 12407 fc635bfeed1a6f42304f04ecfd6b4293 ""
   "logos/lms.png" 1755086954 850018 bad090694c82ac537cbc9ddabe068414 ""
   "logos/lxipparis_off.png" 1755086954 112753 42fbae64f776a5d77881bd6d69c34531 ""
-  "phd-lms-mmxtrm.aux" 1769160881 590 b5c7e79ecde97fe0c8b1bf886a92290f "pdflatex"
-  "phd-lms-mmxtrm.out" 1769160880 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "phd-lms-mmxtrm.tex" 1769160878 6977 10596edc313b891c731b95deee4b0dba ""
+  "phd-lms-mmxtrm.aux" 1770637436 590 b5c7e79ecde97fe0c8b1bf886a92290f "pdflatex"
+  "phd-lms-mmxtrm.out" 1770637435 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "phd-lms-mmxtrm.tex" 1770637433 7000 53d160b5ed520fc7bade9ec40e65f847 ""
   (generated)
   "phd-lms-mmxtrm.aux"
   "phd-lms-mmxtrm.log"

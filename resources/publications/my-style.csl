@@ -61,17 +61,17 @@
 <names variable="author">
 <name and="text" delimiter-precedes-last="never" initialize-with="." name-as-sort-order="all"/>
 <name>
-<choose>
-      <if name-matches="author" family="Kannan">
-        <name-part name="family" font-weight="bold"/>
-        <name-part name="given" font-weight="bold" prefix=", "/>
+  <name-part name="family">
+    <choose>
+      <if family="Kannan">
+        <text font-weight="bold"/>
       </if>
       <else>
-        <name-part name="family"/>
-        <name-part name="given" prefix=", "/>
+        <text/>
       </else>
     </choose>
-    </name>
+  </name-part>
+</name>
 <label form="short" prefix=" (" suffix=")"/>
 <et-al font-style="italic"/>
 <substitute>
