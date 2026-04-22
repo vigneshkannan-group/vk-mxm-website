@@ -23,7 +23,7 @@ format:
 
 ::: {.team-container}
 
-Coming soon...
+{{< include resources/team-data/postdoc/gautam-revankar.qmd >}}
 
 :::
 

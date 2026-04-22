@@ -1,0 +1,25 @@
+::: {.team-card}
+![](resources/images/headshots/revankar.jpg)
+
+::: {.team-info}
+
+### Gautam Revankar
+
+#### Research interests: <span class="smallfont">In-situ experiments,shape memory alloys, tribology, electrochemistry, impact mechanics</span>
+
+####
+<span class="smallfont">
+B.E., BMS College of Engineering, Bengaluru, India<br>
+M. Tech., Indian Institute of Space Science and Technology, Thiruvananthapuram, India <br>
+Ph.D., Indian Institute of Science, Bengaluru, India
+</span>
+
+####
+<span class="smallfont"><i class="fas fa-envelope"></i> [sameh.ammari@polytechnique.edu](mailto:sameh.ammari@polytechnique.edu) </span> 
+<span class="smallfont"><i class="fas fa-phone"></i> [+33 1 69 33 5702](tel:+33169335702) </span> <br>
+<i class="fas fa-map-marker-alt"></i><span class="smallfont"> 
+Pole Mecanique (Building 104), Office 104:20-216 <br>
+Avenue Becquerel, 91120 Palaiseau</span>
+
+:::
+:::

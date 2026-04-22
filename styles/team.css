@@ -115,10 +115,20 @@ body::before {
   margin-top: 3rem;
 }
 
-.team-card img {
-  aspect-ratio: 1 !important;
+.team-card > p {
+  width: 25vh;
   height: 25vh;
-  object-fit: cover !important; /* Ensures the image covers the card without distortion */
+  overflow: hidden;
+  margin: 0;        /* figures have default margins that can throw off layout */
+  flex-shrink: 0;
+}
+
+.team-card > p img {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: cover !important;
   display: block;
 }
 
