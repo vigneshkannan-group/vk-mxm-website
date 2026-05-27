@@ -17,7 +17,7 @@ In case of questions, please feel free to contact me at [vignesh.kannan@polytech
   color: #05014a;
   text-align: left;
   font-weight: bold"> 
-  Application deadline (extended): March 27, 2026 </p><br>
+  Applications are being evaluated on a rolling basis until October 31, 2026 </p><br>
 
 <div class="pdf-container">
   <iframe
