@@ -1,7 +1,9 @@
 ::: {.custom-margin}
 
-* Tamar Tsikarishvili (B.S. 2025) -- (currently) Nordic masters program in Maritime Engineering
-* Joao Moreira Lopes (masters M1 2025) -- (currently) M2 masters student at ENSTA Palaiseau
-* Sameh Ammari (M.S. 2025) -- (currently) back to our group as its first PhD student :)
+* Cristian Iancu (B.S. 2026) -- Masters student at TU Delft, Netherlands
+* Matthèo Chauvancy (B.S. 2026) -- Masters student at ETH Zurich, Switzerland
+* Tamar Tsikarishvili (B.S. 2025) -- Nordic masters program in Maritime Engineering
+* Joao Moreira Lopes (masters M1 2025) -- M2 masters student at ENSTA Palaiseau
+* Sameh Ammari (M.S. 2025) -- back to our group as its first PhD student :)
 
 :::
