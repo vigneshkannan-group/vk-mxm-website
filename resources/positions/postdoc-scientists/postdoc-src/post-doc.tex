@@ -1,0 +1,168 @@
+\documentclass[a4paper,11pt,fleqn]{article}
+
+\usepackage[left=0.75in, right=0.75in, top=0.55in, bottom=0.5in, 
+headheight= 1in, voffset= 0pt, headsep= 0pt, footskip=0pt]{geometry}
+\usepackage{fancyhdr}
+\usepackage{lmodern}
+\usepackage[table]{xcolor}
+\usepackage{amssymb,amstext,amsmath}
+\usepackage{booktabs}
+\usepackage{bm}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage[colorlinks]{hyperref}
+\setlength{\parindent}{0mm}
+\setlength{\parskip}{2mm}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{gensymb}
+\usepackage{pgfgantt}
+\usepackage{lscape}
+\usepackage{comment}
+\usepackage{cite}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usetikzlibrary{shapes.geometric}
+\usepackage{array}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\usepackage{longtable}
+\usepackage[font={small}]{caption}
+\usepackage[most]{tcolorbox}
+\usepackage{scrextend}
+\deffootnote{0em}{1.6em}{\textsuperscript\thefootnotemark\enskip}
+\usepackage{tikz}
+\usepackage{stmaryrd}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+		\node[shape=circle,draw,inner sep=1pt] (char) {#1};}}
+
+%\newtcolorbox{myhlbox}[2][]{colback=black!5, colframe=black, width=1.0\linewidth,
+%	boxrule=0.5pt, left=0.0pt, right=0.0pt, top=2mm, bottom=0.0pt,
+%	colbacktitle=black, coltitle=white, enhanced, attach boxed title to top left={xshift=3mm, yshift=-2mm},
+%	title={Summary}, #1}
+%
+
+\usepackage{xcolor}
+\definecolor{docColor}{cmyk}{1.00,1.00,0, 0.40}  % 0.90\% of black
+\color{docColor}
+	
+\newtcolorbox{myhlbox}[2][]{colback=docColor!05, colframe=docColor!20, width=1.0\linewidth,
+	boxrule=0pt, left=1em, right=1em, top=1em, bottom=1em,
+	colbacktitle=docColor!20, coltitle=docColor,enhanced, attach boxed title to top left={xshift=2mm, yshift=-1mm},
+	title=\strut#2\strut, #1}
+
+\hypersetup{
+	colorlinks=true,
+	citecolor=blue,
+	filecolor=magenta,
+	linkcolor=blue,
+	urlcolor=blue,
+	pdftitle={AdvertisementlX},
+	%bookmarks=true,,
+}
+
+\graphicspath{{./figs/}}
+
+\definecolor{dgreen}{rgb}{0.0, 0.50, 0.0}
+\definecolor{dorange}{rgb}{1.00, 0.80, 0.0}
+
+\allowdisplaybreaks
+
+\newcommand*\mystrut[1]{\vrule width0pt height0pt depth#1\relax}
+\renewcommand{\thesection}{\arabic{section}.}
+\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}
+\titleformat{\section}{\sffamily\large\bfseries}{\thesection}{1.0em}{}
+\titleformat{\subsection}{\sffamily\normalsize\bfseries}{\thesubsection}{1.0em}{}
+\titleformat{\subsubsection}{\sffamily\normalsize\bfseries}{\thesubsubsection}{1.0em}{}
+\titlespacing\section{0pt}{0pt plus 2pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{0pt plus 2pt minus 2pt}{0pt plus 2pt minus 2pt}
+\titlespacing\subsubsection{0pt}{0pt plus 2pt minus 2pt}{0pt plus 2pt minus 2pt}
+\renewcommand{\baselinestretch}{1.10}
+
+\input{format/defs}
+
+\fancypagestyle{titlepage}{
+	\fancyhf{}
+	\insertheader
+}
+
+\fancypagestyle{plain}{%
+	\fancyhf{}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{1pt}
+	\insertnormalpage
+}
+
+\pagestyle{plain}
+
+\begin{document}
+	\setlength{\abovedisplayskip}{2 pt}
+	\setlength{\belowdisplayskip}{2 pt}
+	\sffamily
+	\thispagestyle{titlepage}
+	\begin{center}
+		\vspace*{0em}
+		\Large \textbf{Postdoctoral scientist positions \\ Mechanics of shape memory alloys under extreme dynamic environments} 
+	\end{center}
+	
+	The \href{https://vigneshkannan-group.github.io/vk-mxm-website/}{Mechanics and Materials under eXtremes} research group within the Laboratoire de M{\'e}canique des Solides (LMS) at the Ecole Polytechnique in France, is looking for two passionate \textbf{postdoctoral} scientists to study the \textbf{mechanics and multiphysics of phase transformations in shape memory alloys under extreme dynamic environments}. Successful candidates are expected to start around \textbf{May -- September 2027}. The position will be initially for one year, with possible extension by one more year after review.
+
+	\begin{myhlbox}{\textbf{Research topic}}
+		\textbf{Context:~}Shape Memory Alloys~(SMAs) are a class of active materials which exhibit ``pseudo/super elastic'' mechanical response, elasto/baro-caloric cooling, and mechanically-driven magnetic flux (for a special class of magnetic SMAs), with applications ranging from impact damping to power generation. At microscopic length scales, these phenomena occur due to spatially-heterogeneous structural changes in the atomic lattice -- phase transformations -- driven by mechanical, thermal and magnetic fields. The PhD positions will be fully funded through a European Research Council~(ERC) Starting grant. 
+		
+		\textbf{Research topic:~}A new direction within the Mechanics and Materials under eXtremes group at the LMS is to understand how these materials respond to multi-axial and high-pressure dynamic loads.~The selected PhD candidates will develop novel experimental capabilities in pursuit of understanding how SMAs respond to (i)~dynamic high-pressure loads; (ii)~dynamic multi-axial loads, and/or (iii)~multi-physical (thermal/magnetic) coupling. The problem is inherently multi-scale in nature, requiring insight into how solid-solid phase transformations evolve under such complex, dynamic, multi-physical loading conditions. Theoretical and numerical modeling components will be required to understand and interpret physical phenomena from multi-scale data sets. 
+	
+	\end{myhlbox}
+	
+	\begin{myhlbox}{\textbf{Your profile}}
+		\begin{itemize}[leftmargin=*, itemsep=-0.25em]
+			\item PhD in mechanical engineering, materials science, physics or related fields, with strong academic credentials.
+			\item Strong background in mechanics and materials (demonstrated through thesis and publications)
+			\item Eager to work on experimental development including mechanical testing and instrumentation (some background in experimental mechanics is expected)
+			\item Experience with data processing tools using Python/Matlab or equivalent 
+			\item You are comfortable communicating in English, and enjoy working in an international environment. 
+		\end{itemize}
+		\vspace{0em}
+		Finally and most importantly, if you are passionate and eager to study mechanics, develop rigorous experiments, and enjoy spending many hours in an experimental lab, you are eligible to apply! \begin{center}
+			\textbf{Application details in the next page.}
+		\end{center}
+	\end{myhlbox}
+	
+	\begin{figure}[h]
+		\includegraphics[width=\linewidth, keepaspectratio]{/Users/kannan/Library/CloudStorage/Dropbox/Kannan/0-templates/00-logos/bg-img/mXm/mXm-bg-2.png}
+	\end{figure}
+	
+	\begin{center}
+		For further details contact,\\\textbf{Prof.~Vignesh Kannan} \\ 
+		Department of Mechanics, Laboratoire de M{\'e}canique des Solides \\
+		P{\^o}le M{\'e}canique, [Office] 104:~20-65,  [Email]~\href{mailto:vignesh.kannan@polytechnique.edu}{vignesh.kannan@polytechnique.edu} \\
+	\end{center}
+
+	\newpage
+
+	\vspace*{-3em}
+	\begin{myhlbox}{\textbf{About our team -- \href{https://vigneshkannan-group.github.io/vk-mxm-website/}{Mechanics and Materials under eXtremes}}}
+		The mXm team, led by Prof.~Vignesh Kannan, studies the mechanics of materials and structures under large stresses, multi-physical fields and short time scales. We use mechanical design, electronic and optical instrumentation to push the cutting edge of experimental mechanics down to nano-second time scales, and \textmu m length scales. Our experiments are motivated by theoretical foundations, with the goal of understanding fundamental mechanisms that govern the multi-physical response of materials. We continuously seek to develop a collaborative, supportive and international group of scientists who enjoy the pursuit of exciting problems, and each other's company!
+	\end{myhlbox}
+
+	\begin{myhlbox}{\textbf{We offer}}
+		We provide a dynamic and intellectually-stimulating work environment within a young, international group of scientists. We are building a new laboratory equipped with Kolsky bars for dynamic compression, tension and torsion across length scales, high-pressure-shear plate impact, and laser-driven \textmu-flyer impact for high-pressure multi-axial loading, with in-situ optical and electronic instrumentation. You will hence be working at the cutting edge of dynamic experimental science, while actively developing novel dynamic experiments and instrumentation. In addition, you will have access to machine shops, material characterization (XRD, SEM, EBSD) and microfabrication capabilities, all on the Ecole Polytechnique campus in Palaiseau. 
+	\end{myhlbox}
+
+	\begin{myhlbox}{\textbf{Application documents}}
+		The following documents are required for full consideration of your application. 
+		\begin{itemize}[leftmargin=*, itemsep=-0.25em]
+			\item Curriculum Vitae (max. two pages excluding the names of referees and publication list)
+			\item Letter of motivation (max. two pages)
+			\item Proof of completion of PhD
+			\item Name, designation and contact details of at least three referees (to be added to the CV)
+		\end{itemize}
+		\vspace{0em}
+		All documents must be prepared and submitted \textbf{in English} as a \textbf{single pdf or zip file}. 
+	\end{myhlbox}
+
+	\begin{myhlbox}{\textbf{To apply!}}
+		Please {send an email} to {Prof.~Vignesh Kannan} (\href{mailto:vignesh.kannan@polytechnique.edu}{vignesh.kannan@polytechnique.edu}) with the aforementioned documents. The email must be sent with the subject \textbf{``Postdoc application:~mXm 2027''}. For full consideration, please send your application package \textbf{by January 31st, 2027}. Applications received after this date will be evaluated on a rolling basis until the positions are filled. 
+	\end{myhlbox}
+
+\end{document}
