@@ -16,6 +16,7 @@ format:
 ::: {.team-container}
 {{< include resources/team-data/phd/mathieu-brodmann.qmd >}}
 {{< include resources/team-data/phd/sameh-ammari.qmd >}}
+{{< include resources/team-data/phd/tarun-hooda.qmd >}}
 :::
 
 ## Post-doctoral scientists

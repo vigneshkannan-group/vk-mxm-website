@@ -148,5 +148,14 @@
   },
   "resources/team-data/postdoc/gautam-revankar.qmd": {
     "gautam-revankar.html": "aa5e53e1"
+  },
+  "resources/team-data/phd/tarun-hooda.qmd": {
+    "tarun-hooda.html": "6174fa25"
+  },
+  "resources/positions/phd.qmd": {
+    "phd.html": "3bfb4d2f"
+  },
+  "resources/positions/interns.qmd": {
+    "interns.html": "c014b72a"
   }
 }

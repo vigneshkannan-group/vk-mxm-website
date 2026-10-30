@@ -1,0 +1,55 @@
+:::{.positions-info}
+
+### PhD position(s)
+
+We are looking for motivated and passionate doctoral students to join our team. The PhD thesis will focus on dynamic phase transformations under large mechanical stresses and coupled multiphysical fields. The student will develop dynamic impact experiments, multi-physical test benches and high-speed instrumentation towards the discovery of phase transformation kinetics in shape memory alloys at short time scales. 
+
+Does this excite you? Then please do apply! Complete application details can be found in the pdf attached.
+
+In case of questions, please feel free to contact me at [vignesh.kannan@polytechnique.edu](vignesh.kannan@polytechnique.edu). 
+
+<p style= "margin: 0rem 0;
+  margin-top: 1rem;
+  margin-left: 0vw;
+  margin-right: 0vw;
+  font-size: 1.20rem; 
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #05014a;
+  text-align: left;
+  font-weight: bold"> 
+  Evaluations will begin on January 31st, 2027. Applications received after this date will be evaluated on a rolling basis until the positions are filled. </p><br>
+
+<div class="pdf-container">
+  <iframe
+    src="resources/positions/phd-students/2027-01-phd-advert.pdf"
+    class="pdf-frame"
+    title="PhD Position PDF">
+  </iframe>
+</div>
+
+:::
+
+<style>
+.pdf-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* full viewport height */
+}
+
+.pdf-frame {
+  width: 70vw;
+  height: 90vh;
+  border: none;
+}
+
+/* On smaller screens, put iframe below and full width */
+@media (max-width: 200px) {
+  .pdf-frame {
+    flex: 0 0 75%;
+    height: 40%;
+    border: none;
+    align: center;
+  }
+}
+</style>
